@@ -1,0 +1,1448 @@
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr ""
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add New"
+msgstr ""
+
+msgid "Add New Calendar"
+msgstr ""
+
+msgid "Add New Custom Field"
+msgstr ""
+
+msgid "Add New Employee"
+msgstr ""
+
+msgid "Add New Schedule Limit"
+msgstr ""
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr ""
+
+msgid "Add To Viewers"
+msgstr ""
+
+msgid "Addons"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Calendars"
+msgstr ""
+
+msgid "All Day"
+msgstr ""
+
+msgid "All Employees"
+msgstr ""
+
+msgid "All From Today"
+msgstr ""
+
+msgid "All Shifts Deleted"
+msgstr ""
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr ""
+
+msgid "Already Linked To Another User Account"
+msgstr ""
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr ""
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Archived"
+msgstr ""
+
+msgid "Assign"
+msgstr ""
+
+msgid "Assign Employee"
+msgstr ""
+
+msgid "Assigned Shift"
+msgstr ""
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Break"
+msgstr ""
+
+msgid "Bulk Actions"
+msgstr ""
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Calendar & Time"
+msgstr ""
+
+msgid "Calendar Archived"
+msgstr ""
+
+msgid "Calendar Changed"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr ""
+
+msgid "Calendar Employees"
+msgstr ""
+
+msgid "Calendar Overlap"
+msgstr ""
+
+msgid "Calendar Restored"
+msgstr ""
+
+msgid "Calendar Updated"
+msgstr ""
+
+msgid "Calendars"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Pickup Request"
+msgstr ""
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Calendar"
+msgstr ""
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr ""
+
+msgid "Change Time"
+msgstr ""
+
+msgid "Changing time here will not affect existing shifts."
+msgstr ""
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Complete Reinstall"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Delete"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr ""
+
+msgid "Conflicts"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr ""
+
+msgid "Create New Shifts"
+msgstr ""
+
+msgid "Create Own Draft Shifts"
+msgstr ""
+
+msgid "Create Own Published Shifts"
+msgstr ""
+
+msgid "Create Own Shifts With Conflicts"
+msgstr ""
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr ""
+
+msgid "Create Published"
+msgstr ""
+
+msgid "Create Template Shifts"
+msgstr ""
+
+msgid "Current Time"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr ""
+
+msgid "Custom Field Updated"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Custom Time"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Database Error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr ""
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Date and Time"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr ""
+
+msgid "Days Of Week Disabled"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr ""
+
+msgid "Default Timezone"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete All Shifts"
+msgstr ""
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Draft Shift Created"
+msgstr ""
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Dropdown Options"
+msgstr ""
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Custom Field"
+msgstr ""
+
+msgid "Edit My Details"
+msgstr ""
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Edit WordPress User"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Format"
+msgstr ""
+
+msgid "Email Sent To"
+msgstr ""
+
+msgid "Employee"
+msgstr ""
+
+msgid "Employee Archived"
+msgstr ""
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr ""
+
+msgid "Employee Can View In Others Shifts"
+msgstr ""
+
+msgid "Employee Can View In Own Shifts"
+msgstr ""
+
+msgid "Employee Changed"
+msgstr ""
+
+msgid "Employee Deleted"
+msgstr ""
+
+msgid "Employee Linked To User Account"
+msgstr ""
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr ""
+
+msgid "Employee Unassigned"
+msgstr ""
+
+msgid "Employee Unlinked From User Account"
+msgstr ""
+
+msgid "Employee Updated"
+msgstr ""
+
+msgid "Employees"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Every 2 Weeks"
+msgstr ""
+
+msgid "Every 3 Weeks"
+msgstr ""
+
+msgid "Every 4 Weeks"
+msgstr ""
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "From Date"
+msgstr ""
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Front End"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr ""
+
+msgid "Group By"
+msgstr ""
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr ""
+
+msgid "Holidays"
+msgstr ""
+
+msgid "Hours"
+msgstr ""
+
+msgid "How Many"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr ""
+
+msgid "Import WordPress Users As Employees"
+msgstr ""
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr ""
+
+msgid "Link To Employee"
+msgstr ""
+
+msgid "Link To This Employee"
+msgstr ""
+
+msgid "Link To This User Account"
+msgstr ""
+
+msgid "Link To User Account"
+msgstr ""
+
+msgid "Linked Employee"
+msgstr ""
+
+msgid "Linked User Account"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Local Applications"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr ""
+
+msgid "Lunch break should be within shift hours."
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr ""
+
+msgid "Manager"
+msgstr ""
+
+msgid "Manager Added To Calendar"
+msgstr ""
+
+msgid "Manager Removed From Calendar"
+msgstr ""
+
+msgid "Managers"
+msgstr ""
+
+msgid "Mar"
+msgstr ""
+
+msgid "Max"
+msgstr ""
+
+msgid "Max End Time"
+msgstr ""
+
+msgid "Max value should not be less than min value"
+msgstr ""
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Min Start Time"
+msgstr ""
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "More Calendars"
+msgstr ""
+
+msgid "More Employees"
+msgstr ""
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr ""
+
+msgid "My Schedule"
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Calendar Added"
+msgstr ""
+
+msgid "New Created"
+msgstr ""
+
+msgid "New Custom Field Added"
+msgstr ""
+
+msgid "New Employee Added"
+msgstr ""
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Availability"
+msgstr ""
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr ""
+
+msgid "No Available Time"
+msgstr ""
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr ""
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Notification Disabled"
+msgstr ""
+
+msgid "Notification Enabled"
+msgstr ""
+
+msgid "Notification Updated"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Notifications Turned Off"
+msgstr ""
+
+msgid "Notifications Turned On"
+msgstr ""
+
+msgid "Nov"
+msgstr ""
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr ""
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "One option per line."
+msgstr ""
+
+msgid "Online Services"
+msgstr ""
+
+msgid "Open Shift"
+msgstr ""
+
+msgid "Open Shifts"
+msgstr ""
+
+msgid "Or"
+msgstr ""
+
+msgid "Other Employees"
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr ""
+
+msgid "Pages With Shortcode"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr ""
+
+msgid "Pick Up Others Shifts"
+msgstr ""
+
+msgid "Pickup"
+msgstr ""
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr ""
+
+msgid "Pickup Request Cancelled"
+msgstr ""
+
+msgid "Pickup Request Created"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr ""
+
+msgid "Post Shift"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Proceed To Upgrade"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Published"
+msgstr ""
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Options"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr ""
+
+msgid "Reinstalled"
+msgstr ""
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr ""
+
+msgid "Remove From Viewers"
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Report"
+msgstr ""
+
+msgid "Request Pickup"
+msgstr ""
+
+msgid "Required Field"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Sort Order"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Date"
+msgstr ""
+
+msgid "Select Dates"
+msgstr ""
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr ""
+
+msgid "Select Schedule Template"
+msgstr ""
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr ""
+
+msgid "Select a user from WordPress role"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr ""
+
+msgid "Send Email From Name"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr ""
+
+msgid "Shift"
+msgstr ""
+
+msgid "Shift Deleted"
+msgstr ""
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr ""
+
+msgid "Shift Pickup Request"
+msgstr ""
+
+msgid "Shift Pickup Request Cancelled"
+msgstr ""
+
+msgid "Shift Pickup Request Recorded"
+msgstr ""
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr ""
+
+msgid "Shift Rescheduled"
+msgstr ""
+
+msgid "Shift Status"
+msgstr ""
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr ""
+
+msgid "Shift Unpublished"
+msgstr ""
+
+msgid "Shift Updated"
+msgstr ""
+
+msgid "ShiftController Role"
+msgstr ""
+
+msgid "Shifts"
+msgstr ""
+
+msgid "Shifts Feed"
+msgstr ""
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr ""
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr ""
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr ""
+
+msgid "Sort Order Updated"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Textarea"
+msgstr ""
+
+msgid "This operation cannot be undone."
+msgstr ""
+
+msgid "This value is already used"
+msgstr ""
+
+msgid "This will not affect existing shifts."
+msgstr ""
+
+msgid "Thu"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Time Increment"
+msgstr ""
+
+msgid "Time Off"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+msgid "Toggle All"
+msgstr ""
+
+msgid "Toggle Selected"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Duration"
+msgstr ""
+
+msgid "Total For All Employees"
+msgstr ""
+
+msgid "Total Number"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Turn Off Notifications"
+msgstr ""
+
+msgid "Turn On"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unassign"
+msgstr ""
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr ""
+
+msgid "Unlink"
+msgstr ""
+
+msgid "Unpublish"
+msgstr ""
+
+msgid "Until"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr ""
+
+msgid "Upgraded"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View Conflicts"
+msgstr ""
+
+msgid "View Open Draft Shifts"
+msgstr ""
+
+msgid "View Open Published Shifts"
+msgstr ""
+
+msgid "View Others Draft Shifts"
+msgstr ""
+
+msgid "View Others Published Shifts"
+msgstr ""
+
+msgid "View Own Draft Shifts"
+msgstr ""
+
+msgid "View Own Published Shifts"
+msgstr ""
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr ""
+
+msgid "Viewer Removed From Calendar"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+msgid "Visitor"
+msgstr ""
+
+msgid "Visitor Can Edit"
+msgstr ""
+
+msgid "Visitor Can View"
+msgstr ""
+
+msgid "Wed"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Week Starts On"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr ""
+
+msgid "Work 1 day, off 3 days"
+msgstr ""
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr ""
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr ""
+
+

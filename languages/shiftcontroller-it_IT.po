@@ -1,0 +1,1545 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 06:36+0000\n"
+"PO-Revision-Date: 2023-08-16 10:53+0200\n"
+"Last-Translator: John Master <test@test.com>\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+
+msgid "2 Weeks"
+msgstr "2 Settimane"
+
+msgid "4 Weeks"
+msgstr "4 Settimane"
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Action"
+msgstr "Azione"
+
+msgid "Active"
+msgstr "Attivo"
+
+msgid "Add New"
+msgstr "Aggiungi Nuovo"
+
+msgid "Add New Calendar"
+msgstr "Aggiungi nuovo calendario"
+
+msgid "Add New Custom Field"
+msgstr "Aggiungi nuovo campo personalizzato"
+
+msgid "Add New Employee"
+msgstr "Aggiungi nuovo impiegato"
+
+msgid "Add New Schedule Limit"
+msgstr "Aggiungi nuovo limite nella schelulazone"
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "Aggiungi ai Manager"
+
+msgid "Add To Viewers"
+msgstr "Aggiungi ai visitatori"
+
+msgid "Addons"
+msgstr "Accessori"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Amministrazione"
+
+msgid "Administrator"
+msgstr "Amministratore"
+
+msgid "All"
+msgstr "Tutti"
+
+msgid "All Calendars"
+msgstr "Tutti i calendari"
+
+msgid "All Day"
+msgstr "Tutto il giorno"
+
+msgid "All Employees"
+msgstr "Tutti i volontari"
+
+msgid "All From Today"
+msgstr "Tutti di oggi"
+
+msgid "All Shifts Deleted"
+msgstr "Tutti i turni eliminati"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "Già collegato ad un altro impiegato"
+
+msgid "Already Linked To Another User Account"
+msgstr "Già collegato a un altro account utente"
+
+msgid "Any"
+msgstr "Tutti"
+
+msgid "Apply Action"
+msgstr "Applica azione"
+
+msgid "Apply Limit"
+msgstr "Applica limiti"
+
+msgid "Apply Limit For Employee"
+msgstr "Applica limiti per persona"
+
+msgid "Apr"
+msgstr ""
+
+msgid "Archive"
+msgstr "Archivio"
+
+msgid "Archived"
+msgstr "Archiviato"
+
+msgid "Assign"
+msgstr "Assegna"
+
+msgid "Assign Employee"
+msgstr "Assegna impiegato"
+
+msgid "Assigned Shift"
+msgstr "Turni assegnati"
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr "Ago"
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr ""
+
+msgid "Availability"
+msgstr "Disponibilità"
+
+msgid "Available"
+msgstr "Disponibile"
+
+msgid "Available Employees"
+msgstr "Volontari disponibili"
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr "Bisettimanale"
+
+msgid "Body"
+msgstr "Corpo"
+
+msgid "Break"
+msgstr "Interruzione"
+
+msgid "Bulk Actions"
+msgstr "Azione libera"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Calendario"
+
+msgid "Calendar & Time"
+msgstr "Calendario e Ora"
+
+msgid "Calendar Archived"
+msgstr "Calendario Archiviato"
+
+msgid "Calendar Changed"
+msgstr "Calendario Aggiornato"
+
+msgid "Calendar Deleted"
+msgstr "Calendario Cancellato"
+
+msgid "Calendar Employees"
+msgstr "Calendario volontari"
+
+msgid "Calendar Overlap"
+msgstr "Calendario sovrapposto"
+
+msgid "Calendar Restored"
+msgstr "Calendario Recuperato"
+
+msgid "Calendar Updated"
+msgstr "Calendario Aggiornato"
+
+msgid "Calendars"
+msgstr "Calendari"
+
+msgid "Cancel"
+msgstr "Cancella"
+
+msgid "Cancel Pickup Request"
+msgstr "Cancella Richiesta"
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "Cancella richiesta per un Turno"
+
+msgid "Change"
+msgstr "Cambia"
+
+msgid "Change Calendar"
+msgstr "Canbia calendario"
+
+msgid "Change Date"
+msgstr "cambia data"
+
+msgid "Change Employee"
+msgstr "Cambia impiegato"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "Cambia Orario"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "Cambiare l’ora qui non modifica i turni esistenti."
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr "Clicca su uno di questi link per modificare."
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Color"
+msgstr "Colore"
+
+msgid "Complete Reinstall"
+msgstr "Reinstallazione Completa"
+
+msgid "Confirm"
+msgstr "Conferma"
+
+msgid "Confirm Delete"
+msgstr "Conferma Cancellazione"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr ""
+
+msgid "Conflicts"
+msgstr "Conflitto"
+
+msgid "Continue"
+msgstr "Continua"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr "Copia da un calendario esistente"
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr "Crea provvisorio"
+
+msgid "Create New Shifts"
+msgstr "Crea nuovo turno"
+
+msgid "Create Own Draft Shifts"
+msgstr "Crea un Turno provvisorio"
+
+msgid "Create Own Published Shifts"
+msgstr "Pubblica un Turno provvisorio"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr "Creare il proprio turno anche con conflitto"
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "Crea una richiesta  per un Turno"
+
+msgid "Create Published"
+msgstr "Crea e Pubblica"
+
+msgid "Create Template Shifts"
+msgstr "Crea un template di un turno"
+
+msgid "Current Time"
+msgstr "Ora corrente"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr "Campo Custom cancellato"
+
+msgid "Custom Field Updated"
+msgstr "Campo Custom aggiornato"
+
+msgid "Custom Fields"
+msgstr "Campo Custom"
+
+msgid "Custom Time"
+msgstr "Orario Custom"
+
+msgid "Daily"
+msgstr "Ogni giorno"
+
+msgid "Database Error"
+msgstr "Errore nel DataBase"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Date Format"
+msgstr "Formato Data"
+
+msgid "Date Range"
+msgstr "Range di data"
+
+msgid "Date and Time"
+msgstr "Data e Ora"
+
+msgid "Dates"
+msgstr "Date"
+
+msgid "Day"
+msgstr "Giorno"
+
+msgid "Days"
+msgstr "Giorni"
+
+msgid "Days Of Week Disabled"
+msgstr "Giorno della Settimana Disabilitato"
+
+msgid "Dec"
+msgstr "Dic"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr ""
+
+msgid "Default Timezone"
+msgstr ""
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Delete All Shifts"
+msgstr "Cancella tutti i Turni"
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr "Cancellato"
+
+msgid "Description"
+msgstr "Descrizione"
+
+msgid "Disable"
+msgstr "Disabilita"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Draft"
+msgstr "Provvisorio"
+
+msgid "Draft Shift Created"
+msgstr "Provvisorio di Turno"
+
+msgid "Drop Down"
+msgstr "Drop Down"
+
+msgid "Dropdown Options"
+msgstr "Dropdown Options"
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "Edita"
+
+msgid "Edit Custom Field"
+msgstr "Edita Campo Custom"
+
+msgid "Edit My Details"
+msgstr "Edita i miei dettagli"
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr "Formato Email"
+
+msgid "Email Sent To"
+msgstr "Email Invia A"
+
+msgid "Employee"
+msgstr "Impiegato"
+
+msgid "Employee Archived"
+msgstr "Impiegato Archiviato"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr "Il impiegato può editare un suo turno"
+
+msgid "Employee Can View In Others Shifts"
+msgstr "Il impiegato può vedere gli atri Turni"
+
+msgid "Employee Can View In Own Shifts"
+msgstr "Il impiegato può vedere i propri Turni"
+
+msgid "Employee Changed"
+msgstr "Impiegato Cancellato"
+
+msgid "Employee Deleted"
+msgstr "Impiegato Cancellato"
+
+msgid "Employee Linked To User Account"
+msgstr "Impiegato collegato ad un utente"
+
+msgid "Employee Phone Numbers"
+msgstr "Numero di telefono del Impiegato"
+
+msgid "Employee Restored"
+msgstr "Impiegato Recuperato"
+
+msgid "Employee Unassigned"
+msgstr "Impiegato non assegnato"
+
+msgid "Employee Unlinked From User Account"
+msgstr "Impiegato slegato da un utente"
+
+msgid "Employee Updated"
+msgstr "Impiegato Aggiornato"
+
+msgid "Employees"
+msgstr "Volontari"
+
+msgid "Enable"
+msgstr "Abilita"
+
+msgid "End Time"
+msgstr "Fine Orario"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Every 2 Weeks"
+msgstr "Ogni 2 settimane"
+
+msgid "Every 3 Weeks"
+msgstr "Ogni 3 settimane"
+
+msgid "Every 4 Weeks"
+msgstr "Ogni 4 settimane"
+
+msgid "Everyone's Schedule"
+msgstr "I turni di tutti"
+
+msgid "Exact Time"
+msgstr ""
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Filter"
+msgstr "Filtra"
+
+msgid "Fri"
+msgstr "Ven"
+
+msgid "From Date"
+msgstr "Da data"
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr "Giorno intero conta come"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "Raggruppa per"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr "Nascondi le ore nei Report"
+
+msgid "Holidays"
+msgstr "Festività"
+
+msgid "Hours"
+msgstr "Ore"
+
+msgid "How Many"
+msgstr "Quanti"
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr "Importa utenti WordPress"
+
+msgid "Import WordPress Users As Employees"
+msgstr "Importa utenti WordPress come volontari"
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr "Gen"
+
+msgid "Jul"
+msgstr "Lug"
+
+msgid "Jun"
+msgstr "Giu"
+
+msgid "Label"
+msgstr "Etichetta"
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "Lega un impiegato ad un Utente"
+
+msgid "Link To Employee"
+msgstr "Lega a impiegato"
+
+msgid "Link To This Employee"
+msgstr "Lega a questo impiegato"
+
+msgid "Link To This User Account"
+msgstr "LEga a questo Utente"
+
+msgid "Link To User Account"
+msgstr "Lega a Utente"
+
+msgid "Linked Employee"
+msgstr "Impiegato Legato"
+
+msgid "Linked User Account"
+msgstr "Utente legato"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Local Applications"
+msgstr "Applicazione locale"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "Pausa Pasto"
+
+msgid "Lunch break should be within shift hours."
+msgstr "La pausa Pasto deve essere nelle ore di turno."
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "Calendari Gestiti"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Manager Added To Calendar"
+msgstr "Aggiunto Manager al Calendario"
+
+msgid "Manager Removed From Calendar"
+msgstr "Rimosso Manager dal Calendario"
+
+msgid "Managers"
+msgstr ""
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Max"
+msgstr "Massimo"
+
+msgid "Max End Time"
+msgstr "Termine Massimo"
+
+msgid "Max value should not be less than min value"
+msgstr "Il valore massimo non deve essere minore al minimo"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr "Mag"
+
+msgid "Menu"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "Minimo"
+
+msgid "Min Start Time"
+msgstr "Inizio minimo"
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr "Minuti"
+
+msgid "Mon"
+msgstr "Lun"
+
+msgid "Month"
+msgstr "Mese"
+
+msgid "Monthly"
+msgstr "Mensile"
+
+msgid "More"
+msgstr "Altro"
+
+msgid "More Calendars"
+msgstr "Altri CAlendari"
+
+msgid "More Employees"
+msgstr "Altri volontari"
+
+msgid "Multiple Weeks View"
+msgstr "Vista con settimane multiple"
+
+msgid "My Roles"
+msgstr "Il mio Ruolo"
+
+msgid "My Schedule"
+msgstr "I miei turni"
+
+msgid "N/A"
+msgstr ""
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "New Calendar Added"
+msgstr "Aggiunto Nuovo Calendario"
+
+msgid "New Created"
+msgstr "Creato Nuovo"
+
+msgid "New Custom Field Added"
+msgstr "Nuovo Campo Custom aggiunto"
+
+msgid "New Employee Added"
+msgstr "Nuovo impiegato Aggiunto"
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr "Successivo"
+
+msgid "No"
+msgstr ""
+
+msgid "No Availability"
+msgstr "Non disponibile"
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "Volontari non disponibili"
+
+msgid "No Available Time"
+msgstr "Orari non disponibili"
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr ""
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr "Niente"
+
+msgid "Notes"
+msgstr "Note"
+
+msgid "Notification"
+msgstr "Notifica"
+
+msgid "Notification Disabled"
+msgstr "Notifica disabilitata"
+
+msgid "Notification Enabled"
+msgstr "Notifica abilitata"
+
+msgid "Notification Updated"
+msgstr "Notifica aggiornata"
+
+msgid "Notifications"
+msgstr "Notifiche"
+
+msgid "Notifications Turned Off"
+msgstr "Notifiche attive"
+
+msgid "Notifications Turned On"
+msgstr "Notifiche disattivate"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "Numero di Turni"
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr "Ott"
+
+msgid "One option per line."
+msgstr "Un opzione per linea."
+
+msgid "Online Services"
+msgstr "Servizio in linea"
+
+msgid "Open Shift"
+msgstr "Turni Liberi"
+
+msgid "Open Shifts"
+msgstr "Turni Liberi"
+
+msgid "Or"
+msgstr ""
+
+msgid "Other Employees"
+msgstr "Altri Volontari"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr "Sovrapposizione"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr "Per ogni impiegato"
+
+msgid "Per Employee"
+msgstr "Per impiegato"
+
+msgid "Permissions"
+msgstr "Permessi"
+
+msgid "Phone Number"
+msgstr "Numero di telefono"
+
+msgid "Pick Dates By Hand"
+msgstr ""
+
+msgid "Pick Up Others Shifts"
+msgstr "Prendi un’altro Turno"
+
+msgid "Pickup"
+msgstr "Prendi"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "Prendi una richiesta"
+
+msgid "Pickup Request Cancelled"
+msgstr "Cancella una richiesta"
+
+msgid "Pickup Request Created"
+msgstr "Prendi un richiesta creata"
+
+msgid "Plain Text"
+msgstr "Testo semplice"
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr "Nota che la data corrente é sovrapposta."
+
+msgid "Post Shift"
+msgstr "Inserisci turno"
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr "Precedente"
+
+msgid "Print"
+msgstr "Stampa"
+
+msgid "Proceed To Upgrade"
+msgstr "Procedi con Aggiornamento"
+
+msgid "Profile"
+msgstr "Profilo"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "Pubblica"
+
+msgid "Published"
+msgstr "Pubblicato"
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Options"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "Reinstalla"
+
+msgid "Reinstalled"
+msgstr "Reinstallato"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "Rimosso dal Manager"
+
+msgid "Remove From Viewers"
+msgstr ""
+
+msgid "Repeat"
+msgstr "RIpeti"
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Request Pickup"
+msgstr "Prendi una Richiesta"
+
+msgid "Required Field"
+msgstr "Campo Richiesto"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "Resetta al DEfault"
+
+msgid "Restore"
+msgstr "Ripristina"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "Ruolo"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "Sab"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Save Sort Order"
+msgstr "Salva ordine di visualizzazione"
+
+msgid "Saved"
+msgstr "Salvato"
+
+msgid "Schedule"
+msgstr "Schedula"
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr "Seleziona"
+
+msgid "Select All"
+msgstr "Seleziona tutto"
+
+msgid "Select Date"
+msgstr "Seleziona data"
+
+msgid "Select Dates"
+msgstr "Seleziona date"
+
+msgid "Select Days"
+msgstr "Seleziona giorni"
+
+msgid "Select Employee"
+msgstr "Seleziona impiegato"
+
+msgid "Select End Date"
+msgstr "Data di Fine"
+
+msgid "Select Schedule Template"
+msgstr "Seleziona template turno"
+
+msgid "Select Shift Time"
+msgstr "Seleziona turno"
+
+msgid "Select Start Date"
+msgstr "Data di Inizio"
+
+msgid "Select a user from WordPress role"
+msgstr "Seleziona un ruolo utente"
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr ""
+
+msgid "Send Email From Name"
+msgstr ""
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr "Set"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Settings Updated"
+msgstr "Impostazioni Aggiornate"
+
+msgid "Shift"
+msgstr "Turno"
+
+msgid "Shift Deleted"
+msgstr "Turno Cancellato"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr ""
+
+msgid "Shift Pickup Request"
+msgstr "Prendi una Richiesta di Turno"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "Richiesta di Turno cancellata"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "Richiesta di Turno registrata"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "Turno Pubblicato"
+
+msgid "Shift Rescheduled"
+msgstr "Turno rischedulato"
+
+msgid "Shift Status"
+msgstr "Stato del turno"
+
+msgid "Shift Time"
+msgstr "Ora del turno"
+
+msgid "Shift Types"
+msgstr "Tipi di Turno"
+
+msgid "Shift Unpublished"
+msgstr "Turno depubblicato"
+
+msgid "Shift Updated"
+msgstr "Turno aggiornato"
+
+msgid "Shifts"
+msgstr "Turni"
+
+msgid "Shifts Feed"
+msgstr "Bacheca turni"
+
+msgid "Shifts With Conflicts"
+msgstr "Turni con conflitto"
+
+msgid "Show Employee Username In Schedule"
+msgstr ""
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr "Salta la Notifica"
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr "Ordine di visualizzazione"
+
+msgid "Sort Order Updated"
+msgstr "Ordine di visualizzazione salvato"
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "Orario di Partenza"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Subject"
+msgstr "Soggetto"
+
+msgid "Sun"
+msgstr "Dom"
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr "Template Tags"
+
+msgid "Text"
+msgstr "TEsto"
+
+msgid "Textarea"
+msgstr "Area di Testo"
+
+msgid "This operation cannot be undone."
+msgstr "Questa operazione non può essere annullata."
+
+msgid "This value is already used"
+msgstr "Questo valore é già usato"
+
+msgid "This will not affect existing shifts."
+msgstr "Questo non avrà effetto sui Turni esistenti."
+
+msgid "Thu"
+msgstr "Gio"
+
+msgid "Time"
+msgstr "Oara"
+
+msgid "Time Format"
+msgstr "Formato Ora"
+
+msgid "Time Increment"
+msgstr ""
+
+msgid "Time Off"
+msgstr "Time Off"
+
+msgid "Timezone"
+msgstr "Timezone"
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "To Date"
+msgstr "A data"
+
+msgid "Toggle All"
+msgstr "Seleziona tutti"
+
+msgid "Toggle Selected"
+msgstr "Inverti selezionato"
+
+msgid "Total"
+msgstr "TOtale"
+
+msgid "Total Duration"
+msgstr "Durata totale"
+
+msgid "Total For All Employees"
+msgstr "Totale per impiegato"
+
+msgid "Total Number"
+msgstr "numero totale"
+
+msgid "Tue"
+msgstr "Mar"
+
+msgid "Turn Off Notifications"
+msgstr "Spegni Notifiche quando inserisci un turno"
+
+msgid "Turn On"
+msgstr "Accendi"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Unassign"
+msgstr "Non assegnato"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr "Impiegato non disponibile"
+
+msgid "Unlink"
+msgstr "Non Legato"
+
+msgid "Unpublish"
+msgstr "Non Pubblicato"
+
+msgid "Until"
+msgstr "Fino a"
+
+msgid "Updated"
+msgstr "Salvato"
+
+msgid "Upgrade From 3.x"
+msgstr "Aggiorna dalla Versione 3.x"
+
+msgid "Upgraded"
+msgstr "Aggiorna"
+
+msgid "User"
+msgstr "Utente"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "Utenti"
+
+msgid "Version"
+msgstr "Versione"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "Vista"
+
+msgid "View Conflicts"
+msgstr "Visualizza Conflitti"
+
+msgid "View Open Draft Shifts"
+msgstr "Visualizza Turni Provvisori"
+
+msgid "View Open Published Shifts"
+msgstr "Visualizza Turni Liberi Pubbilcati"
+
+msgid "View Others Draft Shifts"
+msgstr "Visualizza altri Turni Provvisori"
+
+msgid "View Others Published Shifts"
+msgstr "Visualizza altri Turni Pubblicati"
+
+msgid "View Own Draft Shifts"
+msgstr "Visualizza i propri Turni provvisori"
+
+msgid "View Own Published Shifts"
+msgstr "Visualizza i propri Turni Pubblicati"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr ""
+
+msgid "Viewer Removed From Calendar"
+msgstr ""
+
+msgid "Viewers"
+msgstr "Viste"
+
+msgid "Visitor"
+msgstr "Visitatore"
+
+msgid "Visitor Can Edit"
+msgstr "Visitatore può modificare"
+
+msgid "Visitor Can View"
+msgstr "Visitatore può vedere"
+
+msgid "Wed"
+msgstr "Mer"
+
+msgid "Week"
+msgstr "Settimana"
+
+msgid "Week Starts On"
+msgstr "La settimana parte da"
+
+msgid "Weekly"
+msgstr "Settimanale"
+
+msgid "Weeks"
+msgstr "Settimane"
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr ""
+
+msgid "Work 1 day, off 3 days"
+msgstr ""
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr ""
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Year"
+msgstr "Anno"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr "Non puoi creare il turno perché in conflitto"
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr ""
+

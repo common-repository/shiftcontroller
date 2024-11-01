@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr ""
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr "关于"
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr "生效"
+
+msgid "Add New"
+msgstr "添加"
+
+msgid "Add New Calendar"
+msgstr "增加新日历"
+
+msgid "Add New Custom Field"
+msgstr "增加自定区域"
+
+msgid "Add New Employee"
+msgstr "增加新员工"
+
+msgid "Add New Schedule Limit"
+msgstr ""
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "添加到经理"
+
+msgid "Add To Viewers"
+msgstr ""
+
+msgid "Addons"
+msgstr "插件"
+
+msgid "Admin"
+msgstr "管理"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "All"
+msgstr "所有"
+
+msgid "All Calendars"
+msgstr "所有日历"
+
+msgid "All Day"
+msgstr "所有日期"
+
+msgid "All Employees"
+msgstr "所有员工"
+
+msgid "All From Today"
+msgstr ""
+
+msgid "All Shifts Deleted"
+msgstr "所有删除班次"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "已关联到另一员工"
+
+msgid "Already Linked To Another User Account"
+msgstr "已关联到另一账户"
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr ""
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "Archive"
+msgstr "档案"
+
+msgid "Archived"
+msgstr "已归档"
+
+msgid "Assign"
+msgstr "指派"
+
+msgid "Assign Employee"
+msgstr "指派员工"
+
+msgid "Assigned Shift"
+msgstr ""
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "Break"
+msgstr "休息"
+
+msgid "Bulk Actions"
+msgstr "批量应用"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Calendar & Time"
+msgstr ""
+
+msgid "Calendar Archived"
+msgstr "已归档日历"
+
+msgid "Calendar Changed"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr "已删除日历 "
+
+msgid "Calendar Employees"
+msgstr ""
+
+msgid "Calendar Overlap"
+msgstr ""
+
+msgid "Calendar Restored"
+msgstr "已恢复日历"
+
+msgid "Calendar Updated"
+msgstr "已更新日历"
+
+msgid "Calendars"
+msgstr "日历"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel Pickup Request"
+msgstr "取消班次请求"
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "取消自身班次拾取请求"
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Calendar"
+msgstr ""
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "更改员工"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "更改时间"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "更改时间不会影响现成班次"
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr "点击链接完成设置"
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Complete Reinstall"
+msgstr "完全重装"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Delete"
+msgstr "确认删除"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr ""
+
+msgid "Conflicts"
+msgstr "冲突"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr "创造草稿"
+
+msgid "Create New Shifts"
+msgstr ""
+
+msgid "Create Own Draft Shifts"
+msgstr "创造自己的班次草稿"
+
+msgid "Create Own Published Shifts"
+msgstr "创造自己的公开班次"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr ""
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "为自身班次创建拾取请求"
+
+msgid "Create Published"
+msgstr "创建已公布"
+
+msgid "Create Template Shifts"
+msgstr ""
+
+msgid "Current Time"
+msgstr "现在时间"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr "自定义区间已删除"
+
+msgid "Custom Field Updated"
+msgstr "自定义区间已更新"
+
+msgid "Custom Fields"
+msgstr "自定义区间"
+
+msgid "Custom Time"
+msgstr "自定义时间"
+
+msgid "Daily"
+msgstr ""
+
+msgid "Database Error"
+msgstr "数据库错误"
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr "日期格式"
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Date and Time"
+msgstr "日期与时间"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr "日"
+
+msgid "Days Of Week Disabled"
+msgstr "每周冲突日期"
+
+msgid "Dec"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr ""
+
+msgid "Default Timezone"
+msgstr ""
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete All Shifts"
+msgstr "删除所有班次"
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "下载"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Draft Shift Created"
+msgstr "班次草稿已创建"
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Dropdown Options"
+msgstr ""
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Custom Field"
+msgstr "编辑自定区域"
+
+msgid "Edit My Details"
+msgstr ""
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr ""
+
+msgid "Email Sent To"
+msgstr "发送Email到"
+
+msgid "Employee"
+msgstr "员工"
+
+msgid "Employee Archived"
+msgstr "员工已归档"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr "员工可编辑自己的班次"
+
+msgid "Employee Can View In Others Shifts"
+msgstr "员工可看见其它班次"
+
+msgid "Employee Can View In Own Shifts"
+msgstr "员工可看见自己班次"
+
+msgid "Employee Changed"
+msgstr "员工已变更"
+
+msgid "Employee Deleted"
+msgstr "员工已删除"
+
+msgid "Employee Linked To User Account"
+msgstr "员工已链接到用户账号"
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr "员工已恢复"
+
+msgid "Employee Unassigned"
+msgstr "员工未指派"
+
+msgid "Employee Unlinked From User Account"
+msgstr "员工已解除与用户账号链接"
+
+msgid "Employee Updated"
+msgstr "员工已更新"
+
+msgid "Employees"
+msgstr "员工"
+
+msgid "Enable"
+msgstr "生效"
+
+msgid "End Time"
+msgstr "结束时间"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Every 2 Weeks"
+msgstr ""
+
+msgid "Every 3 Weeks"
+msgstr ""
+
+msgid "Every 4 Weeks"
+msgstr ""
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Filter"
+msgstr "过滤"
+
+msgid "Fri"
+msgstr "星期五"
+
+msgid "From Date"
+msgstr ""
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr ""
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "分组方式"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr ""
+
+msgid "Holidays"
+msgstr "假期"
+
+msgid "Hours"
+msgstr "时"
+
+msgid "How Many"
+msgstr "多少"
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr ""
+
+msgid "Import WordPress Users As Employees"
+msgstr ""
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "链接员工到用户账号"
+
+msgid "Link To Employee"
+msgstr "链接到员工"
+
+msgid "Link To This Employee"
+msgstr "链接到此员工"
+
+msgid "Link To This User Account"
+msgstr "链接到此用户账号"
+
+msgid "Link To User Account"
+msgstr "链接到用户账号"
+
+msgid "Linked Employee"
+msgstr "员工（已链接）"
+
+msgid "Linked User Account"
+msgstr "用户账号（已链接）"
+
+msgid "List"
+msgstr "清单"
+
+msgid "Local Applications"
+msgstr "本地应用"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "午休"
+
+msgid "Lunch break should be within shift hours."
+msgstr "午休时间需在班次内"
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "已编辑日历"
+
+msgid "Manager"
+msgstr "经理"
+
+msgid "Manager Added To Calendar"
+msgstr "经理增加到日历"
+
+msgid "Manager Removed From Calendar"
+msgstr "经理从日历移除"
+
+msgid "Managers"
+msgstr "经理"
+
+msgid "Mar"
+msgstr ""
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Max End Time"
+msgstr ""
+
+msgid "Max value should not be less than min value"
+msgstr "最大值不能小于最小值"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "分"
+
+msgid "Min Start Time"
+msgstr ""
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Mon"
+msgstr "星期一"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr "更多"
+
+msgid "More Calendars"
+msgstr "更多日历"
+
+msgid "More Employees"
+msgstr "更多员工"
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr "我的角色"
+
+msgid "My Schedule"
+msgstr "我的安排"
+
+msgid "N/A"
+msgstr ""
+
+msgid "Name"
+msgstr "姓名"
+
+msgid "New Calendar Added"
+msgstr "新日历已建立"
+
+msgid "New Created"
+msgstr "新建立"
+
+msgid "New Custom Field Added"
+msgstr "新自定区间已增加"
+
+msgid "New Employee Added"
+msgstr "新员工已增加"
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Availability"
+msgstr ""
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "无可用员工"
+
+msgid "No Available Time"
+msgstr "无可用时间"
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr ""
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr "无"
+
+msgid "Notes"
+msgstr "备注"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Notification Disabled"
+msgstr "通知已禁用"
+
+msgid "Notification Enabled"
+msgstr "通知已生效"
+
+msgid "Notification Updated"
+msgstr "通知已更新"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Notifications Turned Off"
+msgstr "通知已关闭"
+
+msgid "Notifications Turned On"
+msgstr "通知已开启"
+
+msgid "Nov"
+msgstr ""
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "班次数量"
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "One option per line."
+msgstr ""
+
+msgid "Online Services"
+msgstr "在线服务"
+
+msgid "Open Shift"
+msgstr "开放班次"
+
+msgid "Open Shifts"
+msgstr "开放班次"
+
+msgid "Or"
+msgstr ""
+
+msgid "Other Employees"
+msgstr "其他员工"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr ""
+
+msgid "Permissions"
+msgstr "允许"
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr ""
+
+msgid "Pick Up Others Shifts"
+msgstr "拾取其它班次"
+
+msgid "Pickup"
+msgstr "拾取"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "拾取请求"
+
+msgid "Pickup Request Cancelled"
+msgstr "拾取请求已取消"
+
+msgid "Pickup Request Created"
+msgstr "拾取请求已生成"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr ""
+
+msgid "Post Shift"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Proceed To Upgrade"
+msgstr "开始更新"
+
+msgid "Profile"
+msgstr "简介"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "公布"
+
+msgid "Published"
+msgstr "已公布"
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Options"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "重新安装"
+
+msgid "Reinstalled"
+msgstr "已重新安装"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "从经理中移除"
+
+msgid "Remove From Viewers"
+msgstr ""
+
+msgid "Repeat"
+msgstr "重复"
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Report"
+msgstr "报告"
+
+msgid "Request Pickup"
+msgstr "请求拾取"
+
+msgid "Required Field"
+msgstr "要求区间"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "恢复到默认"
+
+msgid "Restore"
+msgstr "重置"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "角色"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "星期六"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Sort Order"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr "排班"
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Date"
+msgstr "选择日期"
+
+msgid "Select Dates"
+msgstr "选择日期"
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr "选择结束日期"
+
+msgid "Select Schedule Template"
+msgstr ""
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr "选择开始日期"
+
+msgid "Select a user from WordPress role"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr ""
+
+msgid "Send Email From Name"
+msgstr ""
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings Updated"
+msgstr "设置已更新"
+
+msgid "Shift"
+msgstr "班次"
+
+msgid "Shift Deleted"
+msgstr "班次已删除"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr ""
+
+msgid "Shift Pickup Request"
+msgstr "班次拾取请求"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "班次拾取请求已取消"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "班次拾取请求已记录"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "班次已公布"
+
+msgid "Shift Rescheduled"
+msgstr "班次已重排"
+
+msgid "Shift Status"
+msgstr ""
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "班次类型"
+
+msgid "Shift Unpublished"
+msgstr "班次未公布"
+
+msgid "Shift Updated"
+msgstr "班次已更新"
+
+msgid "Shifts"
+msgstr "班次"
+
+msgid "Shifts Feed"
+msgstr ""
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr ""
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr "跳过通知"
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr ""
+
+msgid "Sort Order Updated"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "开始时间"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Subject"
+msgstr ""
+
+msgid "Sun"
+msgstr "星期日"
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr "模板标签"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Textarea"
+msgstr "文本框"
+
+msgid "This operation cannot be undone."
+msgstr "此操作无法撤销"
+
+msgid "This value is already used"
+msgstr "该值已被占用"
+
+msgid "This will not affect existing shifts."
+msgstr "不会影响现有班次"
+
+msgid "Thu"
+msgstr "星期四"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Time Format"
+msgstr "时间格式"
+
+msgid "Time Increment"
+msgstr ""
+
+msgid "Time Off"
+msgstr "调休"
+
+msgid "Timezone"
+msgstr "时区"
+
+msgid "Title"
+msgstr ""
+
+msgid "To Date"
+msgstr ""
+
+msgid "Toggle All"
+msgstr ""
+
+msgid "Toggle Selected"
+msgstr ""
+
+msgid "Total"
+msgstr "总共"
+
+msgid "Total Duration"
+msgstr ""
+
+msgid "Total For All Employees"
+msgstr ""
+
+msgid "Total Number"
+msgstr ""
+
+msgid "Tue"
+msgstr "星期二"
+
+msgid "Turn Off Notifications"
+msgstr "关闭通知"
+
+msgid "Turn On"
+msgstr "开启"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Unassign"
+msgstr "取消分配"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr ""
+
+msgid "Unlink"
+msgstr "取消链接"
+
+msgid "Unpublish"
+msgstr "取消公布"
+
+msgid "Until"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr ""
+
+msgid "Upgraded"
+msgstr "已更新"
+
+msgid "User"
+msgstr "用户"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "用户"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "查看"
+
+msgid "View Conflicts"
+msgstr "查看冲突"
+
+msgid "View Open Draft Shifts"
+msgstr "查看开放草稿班次"
+
+msgid "View Open Published Shifts"
+msgstr "查看开放公布班次"
+
+msgid "View Others Draft Shifts"
+msgstr "查看他人草稿班次"
+
+msgid "View Others Published Shifts"
+msgstr "查看他人公布班次"
+
+msgid "View Own Draft Shifts"
+msgstr "查看个人草稿班次"
+
+msgid "View Own Published Shifts"
+msgstr "查看个人公布班次"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr ""
+
+msgid "Viewer Removed From Calendar"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+msgid "Visitor"
+msgstr "访客"
+
+msgid "Visitor Can Edit"
+msgstr ""
+
+msgid "Visitor Can View"
+msgstr "访客可查看"
+
+msgid "Wed"
+msgstr "星期三"
+
+msgid "Week"
+msgstr "周"
+
+msgid "Week Starts On"
+msgstr "每周开始于"
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr ""
+
+msgid "Work 1 day, off 3 days"
+msgstr ""
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr ""
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr ""
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr ""
+

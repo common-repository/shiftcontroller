@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: Sebastiaan Moltmaker (Failed@Design)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr ""
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr "Over"
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+msgid "Add New Calendar"
+msgstr "Nieuwe agenda toevoegen"
+
+msgid "Add New Custom Field"
+msgstr "Nieuw aangepast veld"
+
+msgid "Add New Employee"
+msgstr "Nieuwe medewerker toevoegen"
+
+msgid "Add New Schedule Limit"
+msgstr ""
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "Aan managers toevoegen"
+
+msgid "Add To Viewers"
+msgstr "Aan kijkers toevoegen"
+
+msgid "Addons"
+msgstr "Toevoegingen"
+
+msgid "Admin"
+msgstr "Beheerder"
+
+msgid "Administration"
+msgstr "Beheer"
+
+msgid "Administrator"
+msgstr "Beheerder"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Calendars"
+msgstr "Alle agenda's"
+
+msgid "All Day"
+msgstr "Hele dag"
+
+msgid "All Employees"
+msgstr "Alle medewerkers"
+
+msgid "All From Today"
+msgstr ""
+
+msgid "All Shifts Deleted"
+msgstr "Alle diensten verwijderd"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "Al gekoppeld aan een andere medewerker"
+
+msgid "Already Linked To Another User Account"
+msgstr "Al gekoppeld aan een ander gebruikersaccount"
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr ""
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr "apr"
+
+msgid "Archive"
+msgstr "Archiveren"
+
+msgid "Archived"
+msgstr "Gearchiveerd"
+
+msgid "Assign"
+msgstr "Toewijzen"
+
+msgid "Assign Employee"
+msgstr "Medewerker toewijzen"
+
+msgid "Assigned Shift"
+msgstr ""
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr "aug"
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr "Creëer automatisch een overnameverzoek voor een open gepubliceerde dienst"
+
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+msgid "Available"
+msgstr "Beschikbaar"
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr "Tweewekelijks"
+
+msgid "Body"
+msgstr "Body"
+
+msgid "Break"
+msgstr "Pauze"
+
+msgid "Bulk Actions"
+msgstr "Bulkactie"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Agenda"
+
+msgid "Calendar & Time"
+msgstr "Agenda & Tijd"
+
+msgid "Calendar Archived"
+msgstr "Agenda gearchiveerd"
+
+msgid "Calendar Changed"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr "Agenda verwijderd"
+
+msgid "Calendar Employees"
+msgstr "Medewerkers agenda"
+
+msgid "Calendar Overlap"
+msgstr "Agenda overlapt"
+
+msgid "Calendar Restored"
+msgstr "Agenda hersteld"
+
+msgid "Calendar Updated"
+msgstr "Agenda bijgewerkt"
+
+msgid "Calendars"
+msgstr "Agenda's"
+
+msgid "Cancel"
+msgstr "Annuleren"
+
+msgid "Cancel Pickup Request"
+msgstr "Overnameverzoek annuleren"
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "Overnameverzoek voor eigen dienst annuleren"
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Calendar"
+msgstr ""
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "Medewerker wijzigen"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "Tijd aanpassen"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "Het veranderen van de tijd heeft geen invloed op bestaande diensten."
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr "Klik op één van deze links om het op te zetten."
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr "Kleur"
+
+msgid "Complete Reinstall"
+msgstr "Complete herinstallatie"
+
+msgid "Confirm"
+msgstr "Bevestigen"
+
+msgid "Confirm Delete"
+msgstr "Verwijderen bevestigen"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr ""
+
+msgid "Conflicts"
+msgstr "Conflicten"
+
+msgid "Continue"
+msgstr "Verder"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr "Maak ontwerp"
+
+msgid "Create New Shifts"
+msgstr ""
+
+msgid "Create Own Draft Shifts"
+msgstr "Maak eigen dienstenontwerp"
+
+msgid "Create Own Published Shifts"
+msgstr "Maak eigen gepubliceerde diensten"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr "Maak eigen diensten met conflicten"
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "Maak een overnameverzoek voor eigen diensten"
+
+msgid "Create Published"
+msgstr "Publiceren"
+
+msgid "Create Template Shifts"
+msgstr ""
+
+msgid "Current Time"
+msgstr "Huidige tijd"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr "Aangepast veld verwijderd"
+
+msgid "Custom Field Updated"
+msgstr "Aangepast veld bijgewerkt"
+
+msgid "Custom Fields"
+msgstr "Aangepaste velden"
+
+msgid "Custom Time"
+msgstr "Aangepaste tijd"
+
+msgid "Daily"
+msgstr "Dagelijks"
+
+msgid "Database Error"
+msgstr "Databasefout"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Format"
+msgstr "Datumnotatie"
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Date and Time"
+msgstr "Datum en tijd"
+
+msgid "Dates"
+msgstr "Datums"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Days"
+msgstr "dagen"
+
+msgid "Days Of Week Disabled"
+msgstr "Niet gebruikte weekdagen"
+
+msgid "Dec"
+msgstr "dec"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr ""
+
+msgid "Default Timezone"
+msgstr "Standaard tijdzone"
+
+msgid "Delete"
+msgstr "Verwijderen"
+
+msgid "Delete All Shifts"
+msgstr "Verwijder alle diensten"
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr "Beschrijving"
+
+msgid "Disable"
+msgstr "Uitzetten"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "Downloaden"
+
+msgid "Draft"
+msgstr "Ontwerp"
+
+msgid "Draft Shift Created"
+msgstr "Dienstontwerp gecreëerd"
+
+msgid "Drop Down"
+msgstr "Drop-down"
+
+msgid "Dropdown Options"
+msgstr "Drop-down opties"
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "Wijzigen"
+
+msgid "Edit Custom Field"
+msgstr "Aangepast veld wijzigen"
+
+msgid "Edit My Details"
+msgstr ""
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr "E-mailtype"
+
+msgid "Email Sent To"
+msgstr "E-mail verstuurd naar"
+
+msgid "Employee"
+msgstr "Medewerker"
+
+msgid "Employee Archived"
+msgstr "Medewerker gearchiveerd"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr "Medewerker kan eigen diensten wijzigen"
+
+msgid "Employee Can View In Others Shifts"
+msgstr "Medewerker kan diensten van anderen inzien"
+
+msgid "Employee Can View In Own Shifts"
+msgstr "Medewerker kan eigen diensten inzien"
+
+msgid "Employee Changed"
+msgstr "Medewerker aangepast"
+
+msgid "Employee Deleted"
+msgstr "Medewerker verwijderd"
+
+msgid "Employee Linked To User Account"
+msgstr "Medewerker aan gebruikersaccount gekoppeld"
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr "Medewerker hersteld"
+
+msgid "Employee Unassigned"
+msgstr "Medewerker niet toegewezen"
+
+msgid "Employee Unlinked From User Account"
+msgstr "Medewerker ontkoppeld van gebruikersaccount"
+
+msgid "Employee Updated"
+msgstr "Medewerker bijgewerkt"
+
+msgid "Employees"
+msgstr "Medewerkers"
+
+msgid "Enable"
+msgstr "Aanzetten"
+
+msgid "End Time"
+msgstr "Eindtijd"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr "Voer een eenvoudige rij getallen in, gescheiden door komma's. Positieve getallen stellen werkdagen voor en negatieve getallen vrije dagen."
+
+msgid "Error"
+msgstr "Fout"
+
+msgid "Every 2 Weeks"
+msgstr "Iedere 2 weken"
+
+msgid "Every 3 Weeks"
+msgstr "Iedere 3 weken"
+
+msgid "Every 4 Weeks"
+msgstr "Iedere 4 weken"
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr ""
+
+msgid "Feb"
+msgstr "feb"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Fri"
+msgstr "vr"
+
+msgid "From Date"
+msgstr "Van datum"
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr "Volledige dag telt als"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "Groeperen als"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr "Verberg uren in roosteroverzicht"
+
+msgid "Holidays"
+msgstr "Vakanties"
+
+msgid "Hours"
+msgstr "uren"
+
+msgid "How Many"
+msgstr "Hoeveel"
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr "Importeer WordPress-gebruikers"
+
+msgid "Import WordPress Users As Employees"
+msgstr "Importeer WordPress-gebruikers als medewerkers"
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr "jan"
+
+msgid "Jul"
+msgstr "jul"
+
+msgid "Jun"
+msgstr "jun"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "Koppel medewerker aan gebruikersaccount"
+
+msgid "Link To Employee"
+msgstr "Link naar medewerker"
+
+msgid "Link To This Employee"
+msgstr "Koppel aan deze medewerker"
+
+msgid "Link To This User Account"
+msgstr "Koppel aan dit gebruikersaccount"
+
+msgid "Link To User Account"
+msgstr "Koppel aan gebruikersaccount"
+
+msgid "Linked Employee"
+msgstr "Medewerker gekoppeld"
+
+msgid "Linked User Account"
+msgstr "Gebruikersaccount gekoppeld"
+
+msgid "List"
+msgstr "Lijst"
+
+msgid "Local Applications"
+msgstr "Lokale applicatie"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "Middagpauze"
+
+msgid "Lunch break should be within shift hours."
+msgstr "Middagpauze moet binnen de diensttijd vallen."
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "Beheerde agenda's"
+
+msgid "Manager"
+msgstr "Beheerder"
+
+msgid "Manager Added To Calendar"
+msgstr "Beheerder aan agenda toegevoegd"
+
+msgid "Manager Removed From Calendar"
+msgstr "Beheerder verwijderd van agenda"
+
+msgid "Managers"
+msgstr "Managers"
+
+msgid "Mar"
+msgstr "mrt"
+
+msgid "Max"
+msgstr "Max."
+
+msgid "Max End Time"
+msgstr "Max. eindtijd"
+
+msgid "Max value should not be less than min value"
+msgstr "Max. waarde kan niet groter zijn dan min. waarde"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr "mei"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "Min."
+
+msgid "Min Start Time"
+msgstr "Min. starttijd"
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr "minuten"
+
+msgid "Mon"
+msgstr "ma"
+
+msgid "Month"
+msgstr "Maand"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr "Meer"
+
+msgid "More Calendars"
+msgstr "Meer agenda's"
+
+msgid "More Employees"
+msgstr "Meer medewerkers"
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr "Mijn rol"
+
+msgid "My Schedule"
+msgstr "Mijn rooster"
+
+msgid "N/A"
+msgstr "N/B"
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "New Calendar Added"
+msgstr "Nieuwe agenda toegevoegd"
+
+msgid "New Created"
+msgstr "Nieuw aangemaakt"
+
+msgid "New Custom Field Added"
+msgstr "Nieuw aangepast veld toegevoegd"
+
+msgid "New Employee Added"
+msgstr "Nieuwe medewerker toegevoegd"
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No Availability"
+msgstr "Niet beschikbaar"
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "Geen beschikbare medewerkers"
+
+msgid "No Available Time"
+msgstr "Geen beschikbare tijd"
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr "Geen lunchpauze"
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Notes"
+msgstr "Notities"
+
+msgid "Notification"
+msgstr "Berichtgeving"
+
+msgid "Notification Disabled"
+msgstr "Berichtgeving uitgezet"
+
+msgid "Notification Enabled"
+msgstr "Berichtgeving aangezet"
+
+msgid "Notification Updated"
+msgstr "Berichtgeving bijgewerkt"
+
+msgid "Notifications"
+msgstr "Berichtgeving"
+
+msgid "Notifications Turned Off"
+msgstr "Berichtgeving uit"
+
+msgid "Notifications Turned On"
+msgstr "Berichtgeving aan"
+
+msgid "Nov"
+msgstr "nov"
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "Aantal diensten"
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr "okt"
+
+msgid "One option per line."
+msgstr "Eén optie per regel."
+
+msgid "Online Services"
+msgstr "Online diensten"
+
+msgid "Open Shift"
+msgstr "Open dienst"
+
+msgid "Open Shifts"
+msgstr "Open diensten"
+
+msgid "Or"
+msgstr "Of"
+
+msgid "Other Employees"
+msgstr "Andere medewerkers"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr "Overlapping"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr ""
+
+msgid "Permissions"
+msgstr "Toestemmingen"
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr "Data handmatig overnemen"
+
+msgid "Pick Up Others Shifts"
+msgstr "Andermans diensten overnemen"
+
+msgid "Pickup"
+msgstr "Overnemen"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "Overnameverzoek"
+
+msgid "Pickup Request Cancelled"
+msgstr "Overnameverzoek geannuleerd"
+
+msgid "Pickup Request Created"
+msgstr "Overnameverzoek aangemaakt"
+
+msgid "Plain Text"
+msgstr "Platte tekst"
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr "Houd er rekening mee dat je huidige data wordt overschreven."
+
+msgid "Post Shift"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print"
+msgstr "Printen"
+
+msgid "Proceed To Upgrade"
+msgstr "Doorgaan met bijwerken"
+
+msgid "Profile"
+msgstr "Profiel"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "Publiceren"
+
+msgid "Published"
+msgstr "Gepubliceerd"
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Options"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "Herinstallatie"
+
+msgid "Reinstalled"
+msgstr "Geherinstalleerd"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "Van managers verwijderen"
+
+msgid "Remove From Viewers"
+msgstr "Van kijkers verwijderen"
+
+msgid "Repeat"
+msgstr "Herhalen"
+
+msgid "Repeat Type"
+msgstr "Herhaal type"
+
+msgid "Report"
+msgstr "Rapporteren"
+
+msgid "Request Pickup"
+msgstr "Verzoek om dienstovername"
+
+msgid "Required Field"
+msgstr "Verplicht veld"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "Herstel naar standaardwaarden"
+
+msgid "Restore"
+msgstr "Herstellen"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "Rol"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "za"
+
+msgid "Save"
+msgstr "Opslaan"
+
+msgid "Save Sort Order"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr "Rooster"
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr "Selecteren"
+
+msgid "Select All"
+msgstr "Selecteer alles"
+
+msgid "Select Date"
+msgstr "Selecteer datum"
+
+msgid "Select Dates"
+msgstr "Selecteer data"
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr "Selecteer einddatum"
+
+msgid "Select Schedule Template"
+msgstr ""
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr "Selecteer startdatum"
+
+msgid "Select a user from WordPress role"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr "E-mailadres afzender"
+
+msgid "Send Email From Name"
+msgstr "Naam afzender"
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr "sep"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Settings Updated"
+msgstr "Instellingen bijgewerkt"
+
+msgid "Shift"
+msgstr "Dienst"
+
+msgid "Shift Deleted"
+msgstr "Dienst verwijderd"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr "Dienst overgenomen"
+
+msgid "Shift Pickup Request"
+msgstr "Dienstovernameverzoek"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "Dienstovernameverzoek geannuleerd"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "Dienstovernameverzoek genoteerd"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "Dienst gepubliceerd"
+
+msgid "Shift Rescheduled"
+msgstr "Dienst verschoven"
+
+msgid "Shift Status"
+msgstr ""
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "Diensttypen"
+
+msgid "Shift Unpublished"
+msgstr "Dienst niet gepubliceerd"
+
+msgid "Shift Updated"
+msgstr "Dienst bijgewerkt"
+
+msgid "Shifts"
+msgstr "diensten"
+
+msgid "Shifts Feed"
+msgstr "Diensten-feed"
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr ""
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr "Berichtgeving overslaan"
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr ""
+
+msgid "Sort Order Updated"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "Starttijd"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Sun"
+msgstr "zo"
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr "Sjabloontags"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Textarea"
+msgstr "Tekstveld"
+
+msgid "This operation cannot be undone."
+msgstr "Deze handeling kan niet ongedaan gemaakt worden."
+
+msgid "This value is already used"
+msgstr "Deze waarde wordt al gebruikt"
+
+msgid "This will not affect existing shifts."
+msgstr "Dit heeft geen invloed op bestaande diensten."
+
+msgid "Thu"
+msgstr "do"
+
+msgid "Time"
+msgstr "Tijd"
+
+msgid "Time Format"
+msgstr "Tijdnotatie"
+
+msgid "Time Increment"
+msgstr "Tijdincrement"
+
+msgid "Time Off"
+msgstr "Vrije tijd"
+
+msgid "Timezone"
+msgstr "Tijdzone"
+
+msgid "Title"
+msgstr "Kop"
+
+msgid "To Date"
+msgstr "Tot-datum"
+
+msgid "Toggle All"
+msgstr "Wissel alle"
+
+msgid "Toggle Selected"
+msgstr "Wissel geselecteerde"
+
+msgid "Total"
+msgstr "Totaal"
+
+msgid "Total Duration"
+msgstr ""
+
+msgid "Total For All Employees"
+msgstr ""
+
+msgid "Total Number"
+msgstr ""
+
+msgid "Tue"
+msgstr "di"
+
+msgid "Turn Off Notifications"
+msgstr "Berichtgeving uitzetten"
+
+msgid "Turn On"
+msgstr "Aanzetten"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unassign"
+msgstr "Toewijzing herroepen"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr ""
+
+msgid "Unlink"
+msgstr "Ontkoppelen"
+
+msgid "Unpublish"
+msgstr "Publicatie herroepen"
+
+msgid "Until"
+msgstr "Totdat"
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr "Bijwerken van 3.x"
+
+msgid "Upgraded"
+msgstr "Bijgewerkt"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "Gebruikers"
+
+msgid "Version"
+msgstr "Versie"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "Toon"
+
+msgid "View Conflicts"
+msgstr "Toon conflicten"
+
+msgid "View Open Draft Shifts"
+msgstr "Toon open dienstenontwerp"
+
+msgid "View Open Published Shifts"
+msgstr "Toon open gepubliceerde diensten"
+
+msgid "View Others Draft Shifts"
+msgstr "Toon dienstenontwerp van anderen"
+
+msgid "View Others Published Shifts"
+msgstr "Toon gepubliceerde diensten van anderen"
+
+msgid "View Own Draft Shifts"
+msgstr "Toon eigen dienstenontwerp"
+
+msgid "View Own Published Shifts"
+msgstr "Toon eigen gepubliceerde diensten"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr "Kijker aan agenda toegevoegd"
+
+msgid "Viewer Removed From Calendar"
+msgstr "Kijker van agenda verwijderd"
+
+msgid "Viewers"
+msgstr "Kijkers"
+
+msgid "Visitor"
+msgstr "Bezoeker"
+
+msgid "Visitor Can Edit"
+msgstr ""
+
+msgid "Visitor Can View"
+msgstr "Bezoekers kunnen zien"
+
+msgid "Wed"
+msgstr "wo"
+
+msgid "Week"
+msgstr "Week"
+
+msgid "Week Starts On"
+msgstr "Week begint op"
+
+msgid "Weekly"
+msgstr "Wekelijks"
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr "Als een agenda wordt gewist, worden alle bijbehorende data en informatie verwijderd."
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr "Als een werknemer wordt gewist, worden alle bijbehorende data en informatie verwijderd."
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr "WordPress gebruikersrol"
+
+msgid "Work 1 day, off 3 days"
+msgstr "1 dag werken, 3 dagen vrij"
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr "3 dagen werken, 2 dagen vrij, 4 dagen werken, 1 dag vrij"
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr "X dagen op / Y dagen af"
+
+msgid "Year"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr ""
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr "iCal synchronisatie"
+

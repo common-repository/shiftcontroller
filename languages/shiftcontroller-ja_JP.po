@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja_JP\n"
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr ""
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr "Shift Controllerについて"
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr "有効"
+
+msgid "Add New"
+msgstr "新規追加"
+
+msgid "Add New Calendar"
+msgstr "日程を追加"
+
+msgid "Add New Custom Field"
+msgstr ""
+
+msgid "Add New Employee"
+msgstr "従業員を追加"
+
+msgid "Add New Schedule Limit"
+msgstr ""
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "マネージャーに追加"
+
+msgid "Add To Viewers"
+msgstr ""
+
+msgid "Addons"
+msgstr "アドオン"
+
+msgid "Admin"
+msgstr "管理者"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "All"
+msgstr "すべて"
+
+msgid "All Calendars"
+msgstr "すべての日程"
+
+msgid "All Day"
+msgstr "全日"
+
+msgid "All Employees"
+msgstr "すべての従業員"
+
+msgid "All From Today"
+msgstr ""
+
+msgid "All Shifts Deleted"
+msgstr "すべてのシフトを削除する"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "既に別の従業員にリンクされています"
+
+msgid "Already Linked To Another User Account"
+msgstr "すでに他のユーザーアカウントとリンクしています"
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr ""
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr ""
+
+msgid "Archive"
+msgstr "アーカイブへ移動"
+
+msgid "Archived"
+msgstr "アーカイブ"
+
+msgid "Assign"
+msgstr "割り当て"
+
+msgid "Assign Employee"
+msgstr "従業員を割り当てる"
+
+msgid "Assigned Shift"
+msgstr ""
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr ""
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr ""
+
+msgid "Body"
+msgstr "本文"
+
+msgid "Break"
+msgstr "休憩"
+
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "日程"
+
+msgid "Calendar & Time"
+msgstr ""
+
+msgid "Calendar Archived"
+msgstr "日程をアーカイブへ移動しました"
+
+msgid "Calendar Changed"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr "日程が削除されました"
+
+msgid "Calendar Employees"
+msgstr ""
+
+msgid "Calendar Overlap"
+msgstr ""
+
+msgid "Calendar Restored"
+msgstr "日程が復元されました"
+
+msgid "Calendar Updated"
+msgstr "日程が更新されました"
+
+msgid "Calendars"
+msgstr "日程"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancel Pickup Request"
+msgstr "シフトリクエストをキャンセル"
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "自分のシフトリクエストをキャンセル"
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Calendar"
+msgstr ""
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "従業員を変更"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "時間を変更"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "時間の変更はすでにあるシフトには影響しません。"
+
+msgid "Checkbox"
+msgstr ""
+
+msgid "Click one of these links to set it up."
+msgstr "これらのサービスから設定します。"
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr "色"
+
+msgid "Complete Reinstall"
+msgstr "完全な再インストール"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Delete"
+msgstr "削除の確認"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr ""
+
+msgid "Conflicts"
+msgstr "重複"
+
+msgid "Continue"
+msgstr "続ける"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr "下書きを作成します"
+
+msgid "Create New Shifts"
+msgstr ""
+
+msgid "Create Own Draft Shifts"
+msgstr "自分のシフトの下書きを作成"
+
+msgid "Create Own Published Shifts"
+msgstr "公開シフトを作成"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr ""
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "自分のシフトリクエストを作成"
+
+msgid "Create Published"
+msgstr "公開シフトを作成"
+
+msgid "Create Template Shifts"
+msgstr ""
+
+msgid "Current Time"
+msgstr "現在時刻"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr ""
+
+msgid "Custom Field Updated"
+msgstr ""
+
+msgid "Custom Fields"
+msgstr ""
+
+msgid "Custom Time"
+msgstr "時刻指定"
+
+msgid "Daily"
+msgstr ""
+
+msgid "Database Error"
+msgstr "データベースエラー"
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Format"
+msgstr "日付形式"
+
+msgid "Date Range"
+msgstr ""
+
+msgid "Date and Time"
+msgstr "日時"
+
+msgid "Dates"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Days"
+msgstr "日"
+
+msgid "Days Of Week Disabled"
+msgstr ""
+
+msgid "Dec"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr ""
+
+msgid "Default Timezone"
+msgstr ""
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete All Shifts"
+msgstr "すべてのシフトを削除"
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Disable"
+msgstr "無効"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "ダウンロード"
+
+msgid "Draft"
+msgstr "下書き"
+
+msgid "Draft Shift Created"
+msgstr "下書きシフトが作成されました"
+
+msgid "Drop Down"
+msgstr ""
+
+msgid "Dropdown Options"
+msgstr ""
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit Custom Field"
+msgstr ""
+
+msgid "Edit My Details"
+msgstr ""
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr "メールアドレス"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr ""
+
+msgid "Email Sent To"
+msgstr "メールを送信"
+
+msgid "Employee"
+msgstr "従業員"
+
+msgid "Employee Archived"
+msgstr "従業員をアーカイブに移動しました"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr ""
+
+msgid "Employee Can View In Others Shifts"
+msgstr ""
+
+msgid "Employee Can View In Own Shifts"
+msgstr ""
+
+msgid "Employee Changed"
+msgstr "従業員が変更されました"
+
+msgid "Employee Deleted"
+msgstr "従業員が削除されました"
+
+msgid "Employee Linked To User Account"
+msgstr "従業員がユーザーアカウントにリンクされました"
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr "従業員が復元されました"
+
+msgid "Employee Unassigned"
+msgstr "従業員が割り当てられませんでした"
+
+msgid "Employee Unlinked From User Account"
+msgstr "従業員とユーザーアカウントとのリンクが解除されました"
+
+msgid "Employee Updated"
+msgstr "従業員が更新されました"
+
+msgid "Employees"
+msgstr "従業員"
+
+msgid "Enable"
+msgstr "有効"
+
+msgid "End Time"
+msgstr "終了時間"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Every 2 Weeks"
+msgstr ""
+
+msgid "Every 3 Weeks"
+msgstr ""
+
+msgid "Every 4 Weeks"
+msgstr ""
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr ""
+
+msgid "Feb"
+msgstr ""
+
+msgid "Filter"
+msgstr "フィルター"
+
+msgid "Fri"
+msgstr "金"
+
+msgid "From Date"
+msgstr ""
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr "全日の時間を設定"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "グループ"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr ""
+
+msgid "Holidays"
+msgstr "休日"
+
+msgid "Hours"
+msgstr "時間"
+
+msgid "How Many"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr ""
+
+msgid "Import WordPress Users As Employees"
+msgstr ""
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr ""
+
+msgid "Jul"
+msgstr ""
+
+msgid "Jun"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "従業員をユーザーアカウントにリンク"
+
+msgid "Link To Employee"
+msgstr "従業員にリンク"
+
+msgid "Link To This Employee"
+msgstr "この従業員にリンク"
+
+msgid "Link To This User Account"
+msgstr "このユーザー アカウントへリンク"
+
+msgid "Link To User Account"
+msgstr "ユーザーアカウントへリンク"
+
+msgid "Linked Employee"
+msgstr "リンクされた従業員"
+
+msgid "Linked User Account"
+msgstr "リンクされたユーザーアカウント"
+
+msgid "List"
+msgstr "リスト"
+
+msgid "Local Applications"
+msgstr "ローカル アプリケーション"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "昼休み"
+
+msgid "Lunch break should be within shift hours."
+msgstr "昼休みは勤務時間内である必要があります。"
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "日程を管理"
+
+msgid "Manager"
+msgstr "管理"
+
+msgid "Manager Added To Calendar"
+msgstr "マネージャーを日程に追加しました"
+
+msgid "Manager Removed From Calendar"
+msgstr "マネージャーを日程から削除しました"
+
+msgid "Managers"
+msgstr "マネージャー"
+
+msgid "Mar"
+msgstr ""
+
+msgid "Max"
+msgstr "最大"
+
+msgid "Max End Time"
+msgstr ""
+
+msgid "Max value should not be less than min value"
+msgstr "最大値を最小値未満にしないでください"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "最小"
+
+msgid "Min Start Time"
+msgstr ""
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Month"
+msgstr "月"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr "その他"
+
+msgid "More Calendars"
+msgstr "日程をさらに表示"
+
+msgid "More Employees"
+msgstr "従業員をさらに表示"
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr "役割"
+
+msgid "My Schedule"
+msgstr ""
+
+msgid "N/A"
+msgstr "該当なし"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "New Calendar Added"
+msgstr "日程が追加されました"
+
+msgid "New Created"
+msgstr "新規作成されました"
+
+msgid "New Custom Field Added"
+msgstr ""
+
+msgid "New Employee Added"
+msgstr "従業員が追加されました"
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No Availability"
+msgstr ""
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "割り当てられる従業員がいません"
+
+msgid "No Available Time"
+msgstr "時間がありません"
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr ""
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr ""
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr "なし"
+
+msgid "Notes"
+msgstr "ノート"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Notification Disabled"
+msgstr "通知が無効になりました"
+
+msgid "Notification Enabled"
+msgstr "通知が有効になりました"
+
+msgid "Notification Updated"
+msgstr "通知が更新されました"
+
+msgid "Notifications"
+msgstr "通知"
+
+msgid "Notifications Turned Off"
+msgstr "通知をオフ"
+
+msgid "Notifications Turned On"
+msgstr "通知をオン"
+
+msgid "Nov"
+msgstr ""
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "シフト数"
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr ""
+
+msgid "One option per line."
+msgstr ""
+
+msgid "Online Services"
+msgstr "オンラインサービス"
+
+msgid "Open Shift"
+msgstr "空いているシフト"
+
+msgid "Open Shifts"
+msgstr "空いているシフト"
+
+msgid "Or"
+msgstr ""
+
+msgid "Other Employees"
+msgstr "他の従業員"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr "重複しているシフト"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr ""
+
+msgid "Permissions"
+msgstr "権限"
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr ""
+
+msgid "Pick Up Others Shifts"
+msgstr "他のシフトに入る"
+
+msgid "Pickup"
+msgstr "シフトに入る"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "シフト依頼"
+
+msgid "Pickup Request Cancelled"
+msgstr "シフト依頼のキャンセルされました"
+
+msgid "Pickup Request Created"
+msgstr "シフト依頼が作成されました"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr "現在のデータが上書きされることに注意してください。"
+
+msgid "Post Shift"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print"
+msgstr "印刷"
+
+msgid "Proceed To Upgrade"
+msgstr "アップグレードを開始"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "公開"
+
+msgid "Published"
+msgstr "公開されました"
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Options"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "再インストール"
+
+msgid "Reinstalled"
+msgstr "再インストールされました"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "マネージャーから削除"
+
+msgid "Remove From Viewers"
+msgstr ""
+
+msgid "Repeat"
+msgstr "繰り返し"
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Report"
+msgstr "レポート"
+
+msgid "Request Pickup"
+msgstr "シフト依頼"
+
+msgid "Required Field"
+msgstr "必須項目"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "初期設定にリセットする"
+
+msgid "Restore"
+msgstr "復元"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "権限"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "土"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Sort Order"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr "スケジュール"
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Date"
+msgstr "日付を選択"
+
+msgid "Select Dates"
+msgstr "日数を選択します"
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr "終了日を選択します"
+
+msgid "Select Schedule Template"
+msgstr ""
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr "開始日を選択"
+
+msgid "Select a user from WordPress role"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr ""
+
+msgid "Send Email From Name"
+msgstr ""
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings Updated"
+msgstr "設定を更新"
+
+msgid "Shift"
+msgstr "シフト"
+
+msgid "Shift Deleted"
+msgstr "シフトが削除されました"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr ""
+
+msgid "Shift Pickup Request"
+msgstr "シフトのリクエスト"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "シフトリクエストがキャンセルされました"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "シフトリクエストが保存されました"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "シフトが公開されました"
+
+msgid "Shift Rescheduled"
+msgstr "シフトがリスケジュールされました"
+
+msgid "Shift Status"
+msgstr ""
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "シフトタイプ"
+
+msgid "Shift Unpublished"
+msgstr "シフトが非公開になりました"
+
+msgid "Shift Updated"
+msgstr ""
+
+msgid "Shifts"
+msgstr "シフト"
+
+msgid "Shifts Feed"
+msgstr ""
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr ""
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr ""
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr ""
+
+msgid "Sort Order Updated"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "開始時間"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr "タグテンプレート"
+
+msgid "Text"
+msgstr ""
+
+msgid "Textarea"
+msgstr ""
+
+msgid "This operation cannot be undone."
+msgstr "この操作は元に戻すことはできません。"
+
+msgid "This value is already used"
+msgstr "この値は既に使用されています"
+
+msgid "This will not affect existing shifts."
+msgstr "これは既存のシフトに影響を与えません。"
+
+msgid "Thu"
+msgstr "木"
+
+msgid "Time"
+msgstr "時間"
+
+msgid "Time Format"
+msgstr "時間の書式"
+
+msgid "Time Increment"
+msgstr ""
+
+msgid "Time Off"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "To Date"
+msgstr ""
+
+msgid "Toggle All"
+msgstr ""
+
+msgid "Toggle Selected"
+msgstr ""
+
+msgid "Total"
+msgstr "合計"
+
+msgid "Total Duration"
+msgstr ""
+
+msgid "Total For All Employees"
+msgstr ""
+
+msgid "Total Number"
+msgstr ""
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Turn Off Notifications"
+msgstr "通知をオフにします"
+
+msgid "Turn On"
+msgstr "オンにします"
+
+msgid "Type"
+msgstr ""
+
+msgid "Unassign"
+msgstr "割り当て解除"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr ""
+
+msgid "Unlink"
+msgstr "リンク解除"
+
+msgid "Unpublish"
+msgstr "非公開"
+
+msgid "Until"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr "3.x からのアップグレード"
+
+msgid "Upgraded"
+msgstr "アップグレードされました"
+
+msgid "User"
+msgstr "ユーザー"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "ユーザー"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "表示"
+
+msgid "View Conflicts"
+msgstr "重複を確認する"
+
+msgid "View Open Draft Shifts"
+msgstr "下書きのシフトを確認する"
+
+msgid "View Open Published Shifts"
+msgstr "公開シフトを確認する"
+
+msgid "View Others Draft Shifts"
+msgstr "他の下書きシフトを確認する"
+
+msgid "View Others Published Shifts"
+msgstr "他の公開シフトを確認する"
+
+msgid "View Own Draft Shifts"
+msgstr "自分の下書きシフトを確認する"
+
+msgid "View Own Published Shifts"
+msgstr "自分の公開シフトを確認する"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr ""
+
+msgid "Viewer Removed From Calendar"
+msgstr ""
+
+msgid "Viewers"
+msgstr ""
+
+msgid "Visitor"
+msgstr "訪問者"
+
+msgid "Visitor Can Edit"
+msgstr ""
+
+msgid "Visitor Can View"
+msgstr ""
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Week"
+msgstr "週"
+
+msgid "Week Starts On"
+msgstr "週の始まり"
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr ""
+
+msgid "WordPress User Role"
+msgstr ""
+
+msgid "Work 1 day, off 3 days"
+msgstr ""
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr ""
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr ""
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr "iCal の同期"
+

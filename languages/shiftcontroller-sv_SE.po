@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: Magnus Lindstedt <magnus.lindstedt@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: sv\n"
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr "4 veckor"
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr "Om"
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr "Aktiv"
+
+msgid "Add New"
+msgstr "Skapa nytt"
+
+msgid "Add New Calendar"
+msgstr "Skapa Ny Kalender"
+
+msgid "Add New Custom Field"
+msgstr "Lägg till custom fält"
+
+msgid "Add New Employee"
+msgstr "Skapa ny medarbetare"
+
+msgid "Add New Schedule Limit"
+msgstr ""
+
+msgid "Add New Schedule Template"
+msgstr ""
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "Lägg till i chefer"
+
+msgid "Add To Viewers"
+msgstr "Lägg till i användare"
+
+msgid "Addons"
+msgstr "Tillägg"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Inställningar"
+
+msgid "Administrator"
+msgstr "Administratör"
+
+msgid "All"
+msgstr "Alla"
+
+msgid "All Calendars"
+msgstr "Alla kalendrar"
+
+msgid "All Day"
+msgstr "Hela dagen"
+
+msgid "All Employees"
+msgstr "Alla anställda"
+
+msgid "All From Today"
+msgstr "Alla från och med idag"
+
+msgid "All Shifts Deleted"
+msgstr "Alla skift borttagna"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "Redan kopplad till en annan anställd"
+
+msgid "Already Linked To Another User Account"
+msgstr "Redan länkad till ett annat användarkonto"
+
+msgid "Any"
+msgstr ""
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr ""
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Archive"
+msgstr "Arkiv"
+
+msgid "Archived"
+msgstr "Arkiverade"
+
+msgid "Assign"
+msgstr "Tilldela"
+
+msgid "Assign Employee"
+msgstr "Tilldela medarbetare"
+
+msgid "Assigned Shift"
+msgstr "Tilldelat skift"
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr "Skapa automatiskt upphämtningsbegäran för öppna publicerade skift"
+
+msgid "Availability"
+msgstr "Tillgänglighet"
+
+msgid "Available"
+msgstr "Tillgängliga"
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr "Varannan vecka"
+
+msgid "Body"
+msgstr "Brödtext"
+
+msgid "Break"
+msgstr "Rast"
+
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendar & Time"
+msgstr "Kalender och tid"
+
+msgid "Calendar Archived"
+msgstr "Kalender arkiverad"
+
+msgid "Calendar Changed"
+msgstr ""
+
+msgid "Calendar Deleted"
+msgstr "Kalender borttagen"
+
+msgid "Calendar Employees"
+msgstr "Kalender anställda"
+
+msgid "Calendar Overlap"
+msgstr "Kalenderöverlapp"
+
+msgid "Calendar Restored"
+msgstr "Kalender återställd"
+
+msgid "Calendar Updated"
+msgstr "Kalender uppdaterad"
+
+msgid "Calendars"
+msgstr "Kalendrar"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Cancel Pickup Request"
+msgstr "Avbryt begäran om upphämtning"
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "Avbryt upphämtningsbegäran för egna skift"
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Calendar"
+msgstr ""
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "Ändra medarbetare"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "Ändra tid"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "Att ändra tid här kommer inte att påverka befintliga skift."
+
+msgid "Checkbox"
+msgstr "Kryssruta"
+
+msgid "Click one of these links to set it up."
+msgstr "Klicka på en av dessa länkar för att ställa in den."
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr "Färg"
+
+msgid "Complete Reinstall"
+msgstr "Slutför ominstallation"
+
+msgid "Confirm"
+msgstr "Bekräfta"
+
+msgid "Confirm Delete"
+msgstr "Bekräfta borttagning"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr "Konflikt endast om överlappande skift finns i samma kalender"
+
+msgid "Conflicts"
+msgstr "Konflikter"
+
+msgid "Continue"
+msgstr "Fortsätt"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr ""
+
+msgid "Create Draft"
+msgstr "Skapa utkast"
+
+msgid "Create New Shifts"
+msgstr ""
+
+msgid "Create Own Draft Shifts"
+msgstr "Skapa egna utkast-skift"
+
+msgid "Create Own Published Shifts"
+msgstr "Skapa egna publicerade skift"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr "Skapa egna skift med konflikter"
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "Skapa upphämtningsbegäran för egna skift"
+
+msgid "Create Published"
+msgstr "Skapa publicerad"
+
+msgid "Create Template Shifts"
+msgstr ""
+
+msgid "Current Time"
+msgstr "Aktuell tid"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr "Anpassat fält raderat"
+
+msgid "Custom Field Updated"
+msgstr "Anpassat fält uppdaterat"
+
+msgid "Custom Fields"
+msgstr "Anpassade fält"
+
+msgid "Custom Time"
+msgstr "Anpassad tid"
+
+msgid "Daily"
+msgstr "Dagligen"
+
+msgid "Database Error"
+msgstr "Databasfel"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Format"
+msgstr "Datumformat"
+
+msgid "Date Range"
+msgstr "Datumintervall"
+
+msgid "Date and Time"
+msgstr "Datum och tid"
+
+msgid "Dates"
+msgstr "Datum"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Days"
+msgstr "Dagar"
+
+msgid "Days Of Week Disabled"
+msgstr "Veckodagar inaktiverade"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default Schedule Group By"
+msgstr ""
+
+msgid "Default Schedule View"
+msgstr ""
+
+msgid "Default Shift Duration"
+msgstr "Standardlängd för skift"
+
+msgid "Default Timezone"
+msgstr "Standard tidzon"
+
+msgid "Delete"
+msgstr "Radera"
+
+msgid "Delete All Shifts"
+msgstr "Ta bort alla skift"
+
+msgid "Delete Own Draft Shifts"
+msgstr ""
+
+msgid "Delete Own Published Shifts"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr "Beskrivning"
+
+msgid "Disable"
+msgstr "Inaktivera"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "Ladda ner"
+
+msgid "Draft"
+msgstr "Utkast"
+
+msgid "Draft Shift Created"
+msgstr "Skiftutkast skapat"
+
+msgid "Drop Down"
+msgstr "Nedrullningslista"
+
+msgid "Dropdown Options"
+msgstr "Nedrullningsalternativ"
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "Redigera"
+
+msgid "Edit Custom Field"
+msgstr "Redigera anpassat fält"
+
+msgid "Edit My Details"
+msgstr "Redigera mina uppgifter"
+
+msgid "Edit Own Draft Shifts"
+msgstr ""
+
+msgid "Edit Own Published Shifts"
+msgstr ""
+
+msgid "Edit Shifts"
+msgstr ""
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr ""
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr "E-postformat"
+
+msgid "Email Sent To"
+msgstr "E-post skickat till"
+
+msgid "Employee"
+msgstr "Medarbetare"
+
+msgid "Employee Archived"
+msgstr "Medarbetare arkiverad"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr "Medarbetare kan redigera i egna skift"
+
+msgid "Employee Can View In Others Shifts"
+msgstr "Medarbetare kan titta i andras Skift"
+
+msgid "Employee Can View In Own Shifts"
+msgstr "Medarbetare kan titta i egna skift"
+
+msgid "Employee Changed"
+msgstr "Medarbetare ändrad"
+
+msgid "Employee Deleted"
+msgstr "Medarbetare borttagen"
+
+msgid "Employee Linked To User Account"
+msgstr "Medarbetare kopplad till användarkonto"
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr "Medarbetare återställd"
+
+msgid "Employee Unassigned"
+msgstr "Medarbetare ej tilldelad"
+
+msgid "Employee Unlinked From User Account"
+msgstr "Medarbetare avlänkad från användarkonto"
+
+msgid "Employee Updated"
+msgstr "Medarbetare uppdaterad"
+
+msgid "Employees"
+msgstr "Medarbetare"
+
+msgid "Enable"
+msgstr "Aktivera"
+
+msgid "End Time"
+msgstr "Sluttid"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr "Fel"
+
+msgid "Every 2 Weeks"
+msgstr "Varannan vecka"
+
+msgid "Every 3 Weeks"
+msgstr "Var tredje vecka"
+
+msgid "Every 4 Weeks"
+msgstr "Var fjärde vecka"
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr "Exakt tid"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Fri"
+msgstr "Fredag"
+
+msgid "From Date"
+msgstr "Från datum"
+
+msgid "From Schedule Templates"
+msgstr ""
+
+msgid "Full Day Counts As"
+msgstr "Hel dag räknas som"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "Gruppera efter"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr "Dölj timrapporter i schemavyn"
+
+msgid "Holidays"
+msgstr "Helgdagar"
+
+msgid "Hours"
+msgstr "Timmar"
+
+msgid "How Many"
+msgstr "Hur många"
+
+msgid "ID"
+msgstr ""
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr "Importera WordPress-användare"
+
+msgid "Import WordPress Users As Employees"
+msgstr "Importera WordPress-användare som medarbetare"
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Label"
+msgstr "Etikett"
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr ""
+
+msgid "Limit Total Number"
+msgstr ""
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "Länka medarbetare till användarkonto"
+
+msgid "Link To Employee"
+msgstr "Länk till medarbetare"
+
+msgid "Link To This Employee"
+msgstr "Länk till denna medarbetare"
+
+msgid "Link To This User Account"
+msgstr "Länk till detta användarkonto"
+
+msgid "Link To User Account"
+msgstr "Länk till användarkonto"
+
+msgid "Linked Employee"
+msgstr "Länkad medarbetare"
+
+msgid "Linked User Account"
+msgstr "Länkat användarkonto"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Local Applications"
+msgstr "Lokala program"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "Lunchrast"
+
+msgid "Lunch break should be within shift hours."
+msgstr "Lunchrast bör vara inom skiftets start- och sluttid."
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "Hanterade kalendrar"
+
+msgid "Manager"
+msgstr "Chef"
+
+msgid "Manager Added To Calendar"
+msgstr "Chef har lagts till i kalendern"
+
+msgid "Manager Removed From Calendar"
+msgstr "Chef har tagits bort från kalender"
+
+msgid "Managers"
+msgstr "Chefer"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Max End Time"
+msgstr "Max sluttid"
+
+msgid "Max value should not be less than min value"
+msgstr "Max-värdet får inte vara mindre än min-värdet"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Menu"
+msgstr "Meny"
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Min Start Time"
+msgstr "Min starttid"
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr "Minuter"
+
+msgid "Mon"
+msgstr "Måndag"
+
+msgid "Month"
+msgstr "Månad"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr "Mer"
+
+msgid "More Calendars"
+msgstr "Fler kalendrar"
+
+msgid "More Employees"
+msgstr "Fler anställda"
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr "Mina roller"
+
+msgid "My Schedule"
+msgstr "Mitt schema"
+
+msgid "N/A"
+msgstr "Inte tillgänglig"
+
+msgid "Name"
+msgstr "Namn"
+
+msgid "New Calendar Added"
+msgstr "Ny kalender har lagts till"
+
+msgid "New Created"
+msgstr "Ny skapad"
+
+msgid "New Custom Field Added"
+msgstr "Nytt anpassat fält har lagts till"
+
+msgid "New Employee Added"
+msgstr "Ny medarbetare tillagd"
+
+msgid "New Manager"
+msgstr ""
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr ""
+
+msgid "New Schedule Template Added"
+msgstr ""
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr ""
+
+msgid "New Template Shift"
+msgstr ""
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr "Nästa"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No Availability"
+msgstr "Ingen tillgänglig"
+
+msgid "No Available Calendars"
+msgstr ""
+
+msgid "No Available Employees"
+msgstr "Inga tillgängliga medarbetare"
+
+msgid "No Available Time"
+msgstr "Ingen tillgänglig tid"
+
+msgid "No Available Users"
+msgstr ""
+
+msgid "No Draft Status"
+msgstr "Ingen utkaststatus"
+
+msgid "No Limit"
+msgstr ""
+
+msgid "No Lunch Break"
+msgstr "Ingen lunchrast"
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr ""
+
+msgid "No schedule templates."
+msgstr ""
+
+msgid "No template shifts yet."
+msgstr ""
+
+msgid "None"
+msgstr "Inga"
+
+msgid "Notes"
+msgstr "Anteckningar"
+
+msgid "Notification"
+msgstr "Avisering"
+
+msgid "Notification Disabled"
+msgstr "Avisering avaktiveras"
+
+msgid "Notification Enabled"
+msgstr "Avisering aktiverad"
+
+msgid "Notification Updated"
+msgstr "Avisering uppdaterad"
+
+msgid "Notifications"
+msgstr "Aviseringar"
+
+msgid "Notifications Turned Off"
+msgstr "Aviseringar avstängda"
+
+msgid "Notifications Turned On"
+msgstr "Aviseringar påslagna"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "Antal skift"
+
+msgid "Number Required"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "One option per line."
+msgstr "Ett alternativ per rad."
+
+msgid "Online Services"
+msgstr "Onlinetjänster"
+
+msgid "Open Shift"
+msgstr "Öppna skift"
+
+msgid "Open Shifts"
+msgstr "Öppna skift"
+
+msgid "Or"
+msgstr "eller"
+
+msgid "Other Employees"
+msgstr "Andra medarbetare"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr "Överlappande"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr ""
+
+msgid "Permissions"
+msgstr "Behörigheter"
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr "Välj datum för hand"
+
+msgid "Pick Up Others Shifts"
+msgstr "Välj andras skift"
+
+msgid "Pickup"
+msgstr "Hämta"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "Upphämtningsbegäran"
+
+msgid "Pickup Request Cancelled"
+msgstr "Upphämtningsbegäran avbruten"
+
+msgid "Pickup Request Created"
+msgstr "Upphämtningsbegäran skapad"
+
+msgid "Plain Text"
+msgstr "Enkel text"
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr "Observera att dina befintliga data skrivs över."
+
+msgid "Post Shift"
+msgstr "Publicera skift"
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr "Föregående"
+
+msgid "Print"
+msgstr "Skriv ut"
+
+msgid "Proceed To Upgrade"
+msgstr "Fortsätt till uppgradering"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "Publicera"
+
+msgid "Published"
+msgstr "Publicerat"
+
+msgid "REST API"
+msgstr ""
+
+msgid "Radio"
+msgstr "Radioknapp"
+
+msgid "Radio Options"
+msgstr "Alternativ för radioknapp"
+
+msgid "Range"
+msgstr ""
+
+msgid "Reinstall"
+msgstr "Installera om"
+
+msgid "Reinstalled"
+msgstr "Ominstallerat"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "Ta bort från chefer"
+
+msgid "Remove From Viewers"
+msgstr "Ta bort från användare"
+
+msgid "Repeat"
+msgstr "Upprepa"
+
+msgid "Repeat Type"
+msgstr "Upprepningstyp"
+
+msgid "Report"
+msgstr "Rapportera"
+
+msgid "Request Pickup"
+msgstr "Begär upphämtning"
+
+msgid "Required Field"
+msgstr "Obligatoriskt Fält"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "Återställ standardinställningar"
+
+msgid "Restore"
+msgstr "Återställ"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "Roll"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "Lördag"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Save Sort Order"
+msgstr "Spara sorteringsordning"
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr "Schema"
+
+msgid "Schedule Limit"
+msgstr ""
+
+msgid "Schedule Limit Deleted"
+msgstr ""
+
+msgid "Schedule Limits"
+msgstr ""
+
+msgid "Schedule Template"
+msgstr ""
+
+msgid "Schedule Template Deleted"
+msgstr ""
+
+msgid "Schedule Template Updated"
+msgstr ""
+
+msgid "Schedule Templates"
+msgstr ""
+
+msgid "Select"
+msgstr "Välj"
+
+msgid "Select All"
+msgstr "Välj alla"
+
+msgid "Select Date"
+msgstr "Välj datum"
+
+msgid "Select Dates"
+msgstr "Välj datum"
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr "Välj slutdatum"
+
+msgid "Select Schedule Template"
+msgstr ""
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr "Välj startdatum"
+
+msgid "Select a user from WordPress role"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr "Skicka e-post från adress"
+
+msgid "Send Email From Name"
+msgstr "Skicka e-post från namn"
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Settings"
+msgstr "Inställningar"
+
+msgid "Settings Updated"
+msgstr "Inställningarna sparades"
+
+msgid "Shift"
+msgstr "Skift"
+
+msgid "Shift Deleted"
+msgstr "Skift borttaget"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr "Skift plockas upp"
+
+msgid "Shift Pickup Request"
+msgstr "Begäran om skift-upphämtning"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "Begäran om skiftupphämtning avbrutet"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "Begäran om skiftupphämtning inspelad"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "Skift publicerat"
+
+msgid "Shift Rescheduled"
+msgstr "Skift omplanerat"
+
+msgid "Shift Status"
+msgstr "Skiftstatus"
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "Skifttyper"
+
+msgid "Shift Unpublished"
+msgstr "Skift avpublicerat"
+
+msgid "Shift Updated"
+msgstr "Skift uppdaterat"
+
+msgid "Shifts"
+msgstr "Skift"
+
+msgid "Shifts Feed"
+msgstr "Skiftflöde"
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr "Visa anställdas användarnamn i schema"
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr "Hoppa över aviseringar"
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr "Sorteringsordning"
+
+msgid "Sort Order Updated"
+msgstr "Sorteringsordning uppdaterad"
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "Starttid"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Subject"
+msgstr "Ämne"
+
+msgid "Sun"
+msgstr "Söndag"
+
+msgid "Template Shift Deleted"
+msgstr ""
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr ""
+
+msgid "Template Tags"
+msgstr "Malltaggar"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Textarea"
+msgstr "Textområde"
+
+msgid "This operation cannot be undone."
+msgstr "Det går inte att ångra den här åtgärden."
+
+msgid "This value is already used"
+msgstr "Det här värdet används redan"
+
+msgid "This will not affect existing shifts."
+msgstr "Detta kommer inte att påverka befintliga skift."
+
+msgid "Thu"
+msgstr "Torsdag"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Time Format"
+msgstr "Tidsformat"
+
+msgid "Time Increment"
+msgstr "Steg för tid"
+
+msgid "Time Off"
+msgstr "Ledighet"
+
+msgid "Timezone"
+msgstr "Tidszon"
+
+msgid "Title"
+msgstr "Rubrik"
+
+msgid "To Date"
+msgstr "Till datum"
+
+msgid "Toggle All"
+msgstr "Växla alla"
+
+msgid "Toggle Selected"
+msgstr "Växla markerad"
+
+msgid "Total"
+msgstr "Totalt"
+
+msgid "Total Duration"
+msgstr ""
+
+msgid "Total For All Employees"
+msgstr ""
+
+msgid "Total Number"
+msgstr ""
+
+msgid "Tue"
+msgstr "Tisdag"
+
+msgid "Turn Off Notifications"
+msgstr "Inaktivera aviseringar"
+
+msgid "Turn On"
+msgstr "Slå på"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Unassign"
+msgstr "Avdela"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr "Ej tillgängliga medarbetare"
+
+msgid "Unlink"
+msgstr "Avlänka"
+
+msgid "Unpublish"
+msgstr "Avpublicera"
+
+msgid "Until"
+msgstr "tills"
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr "Uppgradera Från 3.x"
+
+msgid "Upgraded"
+msgstr "Uppgraderat"
+
+msgid "User"
+msgstr "Användare"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "Användare"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "Visa"
+
+msgid "View Conflicts"
+msgstr "Visa konflikter"
+
+msgid "View Open Draft Shifts"
+msgstr "Visa öppna skiftutkast"
+
+msgid "View Open Published Shifts"
+msgstr "Visa öppna publicerade skift"
+
+msgid "View Others Draft Shifts"
+msgstr "Visa andras skiftutkast"
+
+msgid "View Others Published Shifts"
+msgstr "Visa andras publicerade skift"
+
+msgid "View Own Draft Shifts"
+msgstr "Visa egna skiftutkast"
+
+msgid "View Own Published Shifts"
+msgstr "Visa egna publicerade skift"
+
+msgid "Viewer"
+msgstr ""
+
+msgid "Viewer Added To Calendar"
+msgstr "Användare tillagd i kalender"
+
+msgid "Viewer Removed From Calendar"
+msgstr "Användare borttaget från kalender"
+
+msgid "Viewers"
+msgstr "Användare"
+
+msgid "Visitor"
+msgstr "Besökare"
+
+msgid "Visitor Can Edit"
+msgstr ""
+
+msgid "Visitor Can View"
+msgstr "Besökare kan visa"
+
+msgid "Wed"
+msgstr "Onsdag"
+
+msgid "Week"
+msgstr "Vecka"
+
+msgid "Week Starts On"
+msgstr "Veckan börjar med"
+
+msgid "Weekly"
+msgstr "Varje vecka"
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr "WordPress-användare redan länkad till anställd"
+
+msgid "WordPress User Role"
+msgstr "Användarroll för WordPress"
+
+msgid "Work 1 day, off 3 days"
+msgstr "Arbete 1 dag, ledig i 3 dagar"
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr "Arbeta 3 dagar, ledig 2 dagar, arbete 4 dagar, ledig 1 dag"
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr "X arbetsdagar/Y lediga dagar"
+
+msgid "Year"
+msgstr ""
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr "Du kan inte skapa nya skift med konflikter."
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr "iCal Synkronisering"
+

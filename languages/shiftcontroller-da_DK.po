@@ -1,0 +1,1546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShiftController\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-18 12:26+0000\n"
+"PO-Revision-Date: 2022-03-01 18:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dansk\n"
+"Language: da-DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1"
+
+msgid "2 Weeks"
+msgstr ""
+
+msgid "4 Weeks"
+msgstr "4 uger"
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "About"
+msgstr "Om"
+
+msgid "Action"
+msgstr ""
+
+msgid "Active"
+msgstr "Aktive"
+
+msgid "Add New"
+msgstr "Tilføj ny"
+
+msgid "Add New Calendar"
+msgstr "Tilføj ny kalender"
+
+msgid "Add New Custom Field"
+msgstr "Tilføj nyt brugerdefineret felt"
+
+msgid "Add New Employee"
+msgstr "Tilføj ny perdon"
+
+msgid "Add New Schedule Limit"
+msgstr "Tilføj ny skemagrænse"
+
+msgid "Add New Schedule Template"
+msgstr "Tilføj ny skema skabelon"
+
+msgid "Add New User"
+msgstr ""
+
+msgid "Add To Managers"
+msgstr "Føj til ledere"
+
+msgid "Add To Viewers"
+msgstr "Føj til brugere"
+
+msgid "Addons"
+msgstr "Tilføjelser"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Administration"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All Calendars"
+msgstr "Alle kalendere"
+
+msgid "All Day"
+msgstr "Hele dagen"
+
+msgid "All Employees"
+msgstr "Alle medarbejdere"
+
+msgid "All From Today"
+msgstr "Alle fra i dag"
+
+msgid "All Shifts Deleted"
+msgstr "Alle vagter er slettede"
+
+msgid "Allowed Date Range"
+msgstr ""
+
+msgid "Already Linked To Another Employee"
+msgstr "Linker allerede til en anden medarbejder"
+
+msgid "Already Linked To Another User Account"
+msgstr "Er allerede forbundet med en anden brugerkonto"
+
+msgid "Any"
+msgstr "Enhver"
+
+msgid "Apply Action"
+msgstr ""
+
+msgid "Apply Limit"
+msgstr "Tilføjelsesbegrænsning"
+
+msgid "Apply Limit For Employee"
+msgstr ""
+
+msgid "Apr"
+msgstr "Apr"
+
+msgid "Archive"
+msgstr "Arkiv"
+
+msgid "Archived"
+msgstr "Arkiveret"
+
+msgid "Assign"
+msgstr "Tilføj"
+
+msgid "Assign Employee"
+msgstr "Tilføj medarbejder"
+
+msgid "Assigned Shift"
+msgstr "Tilføjet vagt"
+
+msgid "At least one shift time is required for a calendar."
+msgstr ""
+
+msgid "Aug"
+msgstr "Aug"
+
+msgid "Automatically Create Pickup Request For Open Published Shift"
+msgstr "Opret automatisk anmodning om response for åben offentliggjort vagt"
+
+msgid "Availability"
+msgstr "Tilgængelighed"
+
+msgid "Available"
+msgstr "Tilgængelig"
+
+msgid "Available Employees"
+msgstr ""
+
+msgid "Beginning of current month"
+msgstr ""
+
+msgid "Beginning of current week"
+msgstr ""
+
+msgid "Beginning of next week"
+msgstr ""
+
+msgid "Beginning of previous week"
+msgstr ""
+
+msgid "Beginning of today"
+msgstr ""
+
+msgid "Beginning of tomorrrow"
+msgstr ""
+
+msgid "Biweekly"
+msgstr "Hver anden uge"
+
+msgid "Body"
+msgstr "Indhold"
+
+msgid "Break"
+msgstr "Skift"
+
+msgid "Bulk Actions"
+msgstr "Massehandling"
+
+msgid "CSV Delimiter"
+msgstr ""
+
+msgid "Calendar"
+msgstr "Kalender"
+
+msgid "Calendar & Time"
+msgstr "Kalender og tid"
+
+msgid "Calendar Archived"
+msgstr "Kalender er arkiveret"
+
+msgid "Calendar Changed"
+msgstr "Kalender er ændret"
+
+msgid "Calendar Deleted"
+msgstr "Kalender er slettet"
+
+msgid "Calendar Employees"
+msgstr "Kalender for medarbejdere"
+
+msgid "Calendar Overlap"
+msgstr "Kalender overlap"
+
+msgid "Calendar Restored"
+msgstr "Kalender genskabt"
+
+msgid "Calendar Updated"
+msgstr "Kalender opdateret"
+
+msgid "Calendars"
+msgstr "Kalendere"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Pickup Request"
+msgstr ""
+
+msgid "Cancel Pickup Request For Own Shifts"
+msgstr "Slet anmodning om response for egne vagter"
+
+msgid "Change"
+msgstr "Skift"
+
+msgid "Change Calendar"
+msgstr "Skift kalender"
+
+msgid "Change Date"
+msgstr ""
+
+msgid "Change Employee"
+msgstr "Skift medarbejder"
+
+msgid "Change Password"
+msgstr ""
+
+msgid "Change Time"
+msgstr "Skift tid"
+
+msgid "Changing time here will not affect existing shifts."
+msgstr "Ændring af tiden her har ikke indflydelse på eksisterende vagter."
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Click one of these links to set it up."
+msgstr "Klip på et af disse links for at sætte det op."
+
+msgid "Close"
+msgstr ""
+
+msgid "Color"
+msgstr "Farve"
+
+msgid "Complete Reinstall"
+msgstr "Komplet reinstallation"
+
+msgid "Confirm"
+msgstr "Bekræft"
+
+msgid "Confirm Delete"
+msgstr "Bekræft Sletning"
+
+msgid "Confirm Password"
+msgstr ""
+
+msgid "Confirm Publish Action"
+msgstr ""
+
+msgid "Conflict only if overlapping shifts are in the same calendar"
+msgstr "Konfliken er kun hvis overlappende vagter er i den samme kalender"
+
+msgid "Conflicts"
+msgstr "Konflikter"
+
+msgid "Continue"
+msgstr "Fortsæt"
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Created"
+msgstr ""
+
+msgid "Copy Custom Fields"
+msgstr ""
+
+msgid "Copy Custom Fields From Other Calendar"
+msgstr ""
+
+msgid "Copy From Other Calendar"
+msgstr ""
+
+msgid "Copy Other Settings From Existing Calendar"
+msgstr ""
+
+msgid "Copy Schedule Template"
+msgstr ""
+
+msgid "Copy Shift To Another Employee"
+msgstr ""
+
+msgid "Copy To Another Employee"
+msgstr ""
+
+msgid "Copy To Employee"
+msgstr ""
+
+msgid "Count Preliminary Shifts If Limit Set For All Employees"
+msgstr "Tæl foreløbige vagter, hvis grænsen er sat for alle medarbejdere"
+
+msgid "Count Preliminary Shifts If Limit Set Per Employee"
+msgstr "Tæl foreløbige vagter, hvis grænsen er sat pr. medarbejder"
+
+msgid "Create Draft"
+msgstr "Opret kladde"
+
+msgid "Create New Shifts"
+msgstr "Opret nye vagter"
+
+msgid "Create Own Draft Shifts"
+msgstr "Opret egne kladder for vagter"
+
+msgid "Create Own Published Shifts"
+msgstr "Opret egne offentliggjorte vagter"
+
+msgid "Create Own Shifts With Conflicts"
+msgstr "Opret egne vagter med konflikter"
+
+msgid "Create Pickup Request For Own Shifts"
+msgstr "Opret ønske om response for egne vagter"
+
+msgid "Create Published"
+msgstr "Opret udgivne"
+
+msgid "Create Template Shifts"
+msgstr "Opret skabelon for vagter"
+
+msgid "Current Time"
+msgstr "Aktuelle tid"
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Field Deleted"
+msgstr "Brugertilpasset felt er slettet"
+
+msgid "Custom Field Updated"
+msgstr "Brugertilpasset felt er opdateret"
+
+msgid "Custom Fields"
+msgstr "Brugertilpassede felter"
+
+msgid "Custom Time"
+msgstr "Brugertilpasset tid"
+
+msgid "Daily"
+msgstr "Daglig"
+
+msgid "Database Error"
+msgstr "Database fejl"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Date Format"
+msgstr "Dato format"
+
+msgid "Date Range"
+msgstr "Datointerval"
+
+msgid "Date and Time"
+msgstr "Dato og tid"
+
+msgid "Dates"
+msgstr "Datoer"
+
+msgid "Day"
+msgstr "Dag"
+
+msgid "Days"
+msgstr "Dage"
+
+msgid "Days Of Week Disabled"
+msgstr "Ugedage deaktiveret"
+
+msgid "Dec"
+msgstr "Dec"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default Schedule Group By"
+msgstr "Standard skemagruppe efter"
+
+msgid "Default Schedule View"
+msgstr "Standard skemagruppe visning"
+
+msgid "Default Shift Duration"
+msgstr "Standard varighed for vagtskift"
+
+msgid "Default Timezone"
+msgstr "Standard tidszone"
+
+msgid "Delete"
+msgstr "Slet"
+
+msgid "Delete All Shifts"
+msgstr "Slet alle vagter"
+
+msgid "Delete Own Draft Shifts"
+msgstr "Slet egen vagt kladder"
+
+msgid "Delete Own Published Shifts"
+msgstr "Slet egne udgivne vagtskift"
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Disable"
+msgstr "Deaktiver"
+
+msgid "Display Name"
+msgstr ""
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Draft"
+msgstr "Kladde"
+
+msgid "Draft Shift Created"
+msgstr "Kladde til vagtskifte er oprettet"
+
+msgid "Drop Down"
+msgstr "Drop Down"
+
+msgid "Dropdown Options"
+msgstr "Dropdown valgmuligheder"
+
+msgid "Earliest Date"
+msgstr ""
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Edit Custom Field"
+msgstr "Rediger brugerdefineret felt"
+
+msgid "Edit My Details"
+msgstr "Rediger Egne detaljer"
+
+msgid "Edit Own Draft Shifts"
+msgstr "Rediger egne kladder til vagtskifte"
+
+msgid "Edit Own Published Shifts"
+msgstr "Rediger egne udgivne vagtskift"
+
+msgid "Edit Shifts"
+msgstr "Rediger vagtskifte"
+
+msgid "Edit Template Shift"
+msgstr ""
+
+msgid "Edit Template Shifts"
+msgstr "Rediger skabelon for vagtskifte"
+
+msgid "Edit Templates"
+msgstr ""
+
+msgid "Edit Time"
+msgstr ""
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Email Format"
+msgstr "E-mail format"
+
+msgid "Email Sent To"
+msgstr "E-mail sent til"
+
+msgid "Employee"
+msgstr "Medarbejder"
+
+msgid "Employee Archived"
+msgstr "Medarbejder er arkiveret"
+
+msgid "Employee Can Edit In Own Shifts"
+msgstr "Medarbejder kan redigere i egne vagtskift"
+
+msgid "Employee Can View In Others Shifts"
+msgstr "Medarbejder kan se andres vagtskift"
+
+msgid "Employee Can View In Own Shifts"
+msgstr "Medarbejder kan se i egne vagtskift"
+
+msgid "Employee Changed"
+msgstr "Medarbejder er ændret"
+
+msgid "Employee Deleted"
+msgstr "Medarbejder er slettet"
+
+msgid "Employee Linked To User Account"
+msgstr "Medarbejder forbundet med brugerkonto"
+
+msgid "Employee Phone Numbers"
+msgstr ""
+
+msgid "Employee Restored"
+msgstr "Medarbejder genoprettet"
+
+msgid "Employee Unassigned"
+msgstr "Medarbejder frameldt"
+
+msgid "Employee Unlinked From User Account"
+msgstr "Medarbejder fjernet fra brugerkonto"
+
+msgid "Employee Updated"
+msgstr "Medarbejder er opdateret"
+
+msgid "Employees"
+msgstr "Medarbejdere"
+
+msgid "Enable"
+msgstr "Aktiver"
+
+msgid "End Time"
+msgstr "Sluttid"
+
+msgid "End of current month"
+msgstr ""
+
+msgid "End of current week"
+msgstr ""
+
+msgid "End of next week"
+msgstr ""
+
+msgid "End of today"
+msgstr ""
+
+msgid "End of tomorrrow"
+msgstr ""
+
+msgid "Enter a simple string of numbers separated by commas. Positive numbers denote work days, negative numbers denote off days."
+msgstr ""
+
+msgid "Error"
+msgstr "Fejl"
+
+msgid "Every 2 Weeks"
+msgstr "Hver 2. uge"
+
+msgid "Every 3 Weeks"
+msgstr "Hver 3. uge"
+
+msgid "Every 4 Weeks"
+msgstr "Hver 4. uge"
+
+msgid "Everyone's Schedule"
+msgstr ""
+
+msgid "Exact Time"
+msgstr "ræcis tid"
+
+msgid "Feb"
+msgstr "Feb"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Fri"
+msgstr "Fre"
+
+msgid "From Date"
+msgstr "Fra dato"
+
+msgid "From Schedule Templates"
+msgstr "Fra skemaskabeloner"
+
+msgid "Full Day Counts As"
+msgstr "Hele dagen regnes som"
+
+msgid "Get New Password"
+msgstr ""
+
+msgid "Group By"
+msgstr "Grupper efter"
+
+msgid "Here is the automatic CSV/JSON feed of the shifts that can be used with other 3rd party applications."
+msgstr ""
+
+msgid "Hide Bottom Date Navigation In Schedule View"
+msgstr ""
+
+msgid "Hide Hours Reports In Schedule View"
+msgstr "Skjul timerapporter i skemavisning"
+
+msgid "Holidays"
+msgstr "Feriedage"
+
+msgid "Hours"
+msgstr "Timer"
+
+msgid "How Many"
+msgstr "Hvor mange"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "If you allow employees to create shifts, they can do this within the following date range:"
+msgstr ""
+
+msgid "Import WordPress Users"
+msgstr "Importer WordPress brugere"
+
+msgid "Import WordPress Users As Employees"
+msgstr "Importer WordPress brugere som medarbejdere"
+
+msgid "Inside your Google Calendar open the Other Calendars menu in the left sidebar and select the Add by URL option. Paste one of these links then click the Add Calendar button. This will automatically add your shifts to Google Calendar."
+msgstr ""
+
+msgid "Jan"
+msgstr "Jan"
+
+msgid "Jul"
+msgstr "Jul"
+
+msgid "Jun"
+msgstr "Jun"
+
+msgid "Label"
+msgstr "Mærkat"
+
+msgid "Language"
+msgstr ""
+
+msgid "Latest Date"
+msgstr ""
+
+msgid "Latest Date In"
+msgstr ""
+
+msgid "Limit For"
+msgstr ""
+
+msgid "Limit Total Duration"
+msgstr "Begræns den samlede varighed"
+
+msgid "Limit Total Number"
+msgstr "Begræns det totale antal"
+
+msgid "Limit Type"
+msgstr ""
+
+msgid "Limit number of shifts or duration"
+msgstr "Begræns antallet af vagtskift eller varighed"
+
+msgid "Limits"
+msgstr ""
+
+msgid "Link Employee To User Account"
+msgstr "Forbind medarbejder til brugerkonto"
+
+msgid "Link To Employee"
+msgstr "Link til medarbejder"
+
+msgid "Link To This Employee"
+msgstr "Link til denne medarbejder"
+
+msgid "Link To This User Account"
+msgstr "Link til denne brugerkonto"
+
+msgid "Link To User Account"
+msgstr "Link til brugerkonto"
+
+msgid "Linked Employee"
+msgstr "Forbundet medarbejder"
+
+msgid "Linked User Account"
+msgstr "Forbundet brugerkonto"
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Local Applications"
+msgstr "Lokale programmer"
+
+msgid "Logged In"
+msgstr ""
+
+msgid "Logged Out"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Login Required"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Logs Cleared"
+msgstr ""
+
+msgid "Lost Your Password?"
+msgstr ""
+
+msgid "Lunch Break"
+msgstr "Frokostpause"
+
+msgid "Lunch break should be within shift hours."
+msgstr "Frokostpause skal være indenfor vagttimerne"
+
+msgid "Make sure you change it after first login!"
+msgstr ""
+
+msgid "Managed Calendars"
+msgstr "Administrer kalendere"
+
+msgid "Manager"
+msgstr "Manager"
+
+msgid "Manager Added To Calendar"
+msgstr "Manager tilføjet til kalender"
+
+msgid "Manager Removed From Calendar"
+msgstr "Manager fjernet fra kalender"
+
+msgid "Managers"
+msgstr "Managers"
+
+msgid "Mar"
+msgstr "Mar"
+
+msgid "Max"
+msgstr "Max"
+
+msgid "Max End Time"
+msgstr "Max sluttid"
+
+msgid "Max value should not be less than min value"
+msgstr "Max værdi må ikke være mindre end minimum værdi"
+
+msgid "Maximum Allowed"
+msgstr ""
+
+msgid "May"
+msgstr "Maj"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Sent"
+msgstr ""
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Min Start Time"
+msgstr "Min start time"
+
+msgid "Minimum Required"
+msgstr ""
+
+msgid "Minutes"
+msgstr "Minutter"
+
+msgid "Mon"
+msgstr "Man"
+
+msgid "Month"
+msgstr "Måned"
+
+msgid "Monthly"
+msgstr ""
+
+msgid "More"
+msgstr "Mere"
+
+msgid "More Calendars"
+msgstr "Flere kalendere"
+
+msgid "More Employees"
+msgstr "Flere medarbejdere"
+
+msgid "Multiple Weeks View"
+msgstr ""
+
+msgid "My Roles"
+msgstr "Mine roller"
+
+msgid "My Schedule"
+msgstr "Mit skema"
+
+msgid "N/A"
+msgstr "Ikke tilgængelig"
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "New Calendar Added"
+msgstr "Ny kalender er tilføjet"
+
+msgid "New Created"
+msgstr "Nyoprettet"
+
+msgid "New Custom Field Added"
+msgstr "Nyt brugerdefineret felt er tilføjet"
+
+msgid "New Employee Added"
+msgstr "Ny medarbejder er tilføjet"
+
+msgid "New Manager"
+msgstr "Ny manager"
+
+msgid "New Password"
+msgstr ""
+
+msgid "New Schedule Limit Added"
+msgstr "Ny skemagrænse er tilføjet"
+
+msgid "New Schedule Template Added"
+msgstr "Ny skemaskabelon er tilføjet"
+
+msgid "New Shift Time Added"
+msgstr ""
+
+msgid "New Shifts From Schedule Template"
+msgstr "Nye vagter fra tidsskemaskabelon"
+
+msgid "New Template Shift"
+msgstr "Ny skabelon for vagt"
+
+msgid "New User Added"
+msgstr ""
+
+msgid "Next"
+msgstr "Næste"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "No Availability"
+msgstr "Ingen tilgængelighed"
+
+msgid "No Available Calendars"
+msgstr "Ingen tilgængelige kalendere"
+
+msgid "No Available Employees"
+msgstr "Ingen tilgængelige medarbejdere"
+
+msgid "No Available Time"
+msgstr "Ingen tilgængelig tid"
+
+msgid "No Available Users"
+msgstr "Ingen tilgængelige brugere"
+
+msgid "No Draft Status"
+msgstr "Ingen kladdestatus"
+
+msgid "No Limit"
+msgstr "Ingen begrænsning"
+
+msgid "No Lunch Break"
+msgstr "Ingen frokostpause"
+
+msgid "No calendars with custom fields"
+msgstr ""
+
+msgid "No schedule limits."
+msgstr "Ingen skema begrænsninger."
+
+msgid "No schedule templates."
+msgstr "ngen skemaskabeloner."
+
+msgid "No template shifts yet."
+msgstr "Ingen skabelon for vagter endnu"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Notes"
+msgstr "Noter"
+
+msgid "Notification"
+msgstr "Notifikation"
+
+msgid "Notification Disabled"
+msgstr "Notifikation deaktiveret"
+
+msgid "Notification Enabled"
+msgstr "Notifikation aktiveret"
+
+msgid "Notification Updated"
+msgstr "Notifikation opdateret"
+
+msgid "Notifications"
+msgstr "Notifikationer"
+
+msgid "Notifications Turned Off"
+msgstr "Notifikationer er slået fra"
+
+msgid "Notifications Turned On"
+msgstr "Notifikationer er slået til"
+
+msgid "Nov"
+msgstr "Nov"
+
+msgid "Number Of Days"
+msgstr ""
+
+msgid "Number Of Shifts"
+msgstr "Antal vagter"
+
+msgid "Number Required"
+msgstr "Antal er krævet"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Oct"
+msgstr "Okt"
+
+msgid "One option per line."
+msgstr "En valgmulighed pr. linje."
+
+msgid "Online Services"
+msgstr "Online tjenester"
+
+msgid "Open Shift"
+msgstr "Åben vagt"
+
+msgid "Open Shifts"
+msgstr "Åbne vagter"
+
+msgid "Or"
+msgstr "Eller"
+
+msgid "Other Employees"
+msgstr "Andre medarbejdere"
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Overlap"
+msgstr "Overlap"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Reset Information Sent To Your Email"
+msgstr ""
+
+msgid "Password Reset Link"
+msgstr ""
+
+msgid "Password Updated"
+msgstr ""
+
+msgid "Passwords Differ"
+msgstr ""
+
+msgid "Per Each Employee"
+msgstr ""
+
+msgid "Per Employee"
+msgstr "Pr. medarbejder"
+
+msgid "Permissions"
+msgstr "Tilladelser"
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Pick Dates By Hand"
+msgstr "Vælg datoer manuelt"
+
+msgid "Pick Up Others Shifts"
+msgstr "Vælg andre vagter"
+
+msgid "Pickup"
+msgstr "Vælg"
+
+msgid "Pickup Reminders"
+msgstr ""
+
+msgid "Pickup Reminders Sent"
+msgstr ""
+
+msgid "Pickup Request"
+msgstr "Forespørgsel om valg af vagt"
+
+msgid "Pickup Request Cancelled"
+msgstr "Forespørgsel om valg af vagt er annuleret"
+
+msgid "Pickup Request Created"
+msgstr "Forespørgsel om valg af vagt er oprettet"
+
+msgid "Plain Text"
+msgstr "Re ntekst"
+
+msgid "Please enter phone number in international format"
+msgstr ""
+
+msgid "Please note that shifts do not sync immediately. It could take up to 12 hours for your shifts to show up (according to Google support website)."
+msgstr ""
+
+msgid "Please note that your current data will be overwritten."
+msgstr "Bemærk venligt at dine aktuelle data vil blive overskrevet."
+
+msgid "Post Shift"
+msgstr "Udgiv valgt"
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr "Foregående"
+
+msgid "Print"
+msgstr "Print"
+
+msgid "Proceed To Upgrade"
+msgstr "Fortsæt med opgradering"
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile Updated"
+msgstr ""
+
+msgid "Publish"
+msgstr "Udgiv"
+
+msgid "Published"
+msgstr "Udgivet"
+
+msgid "REST API"
+msgstr "REST API"
+
+msgid "Radio"
+msgstr "Radioknapper"
+
+msgid "Radio Options"
+msgstr "Radioknap valgmuligheder"
+
+msgid "Range"
+msgstr "Område"
+
+msgid "Reinstall"
+msgstr "Geninstaller"
+
+msgid "Reinstalled"
+msgstr "Geninstalleret"
+
+msgid "Reminders"
+msgstr ""
+
+msgid "Reminders Sent"
+msgstr ""
+
+msgid "Remove From Managers"
+msgstr "Fjern fra Managers"
+
+msgid "Remove From Viewers"
+msgstr "Fjern fra offentlig visning"
+
+msgid "Repeat"
+msgstr "Gentag"
+
+msgid "Repeat Type"
+msgstr "Gentagelsestype"
+
+msgid "Report"
+msgstr "Rapport"
+
+msgid "Request Pickup"
+msgstr "Forespørg om at tage vagt"
+
+msgid "Required Field"
+msgstr "Påkrævet felt"
+
+msgid "Reset Password"
+msgstr ""
+
+msgid "Reset To Defaults"
+msgstr "Nulstil til standard"
+
+msgid "Restore"
+msgstr "Gendan"
+
+msgid "Review Pickup Reminders"
+msgstr ""
+
+msgid "Review Reminders"
+msgstr ""
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "SMS"
+msgstr ""
+
+msgid "SMS Text notifications are implemented by WP SMS plugin."
+msgstr ""
+
+msgid "Sat"
+msgstr "Lør"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Save Sort Order"
+msgstr "Gem sorteringsorden"
+
+msgid "Saved"
+msgstr ""
+
+msgid "Schedule"
+msgstr "Skema"
+
+msgid "Schedule Limit"
+msgstr "Skemabegrænsning"
+
+msgid "Schedule Limit Deleted"
+msgstr "Skemabegrænsning er slettet"
+
+msgid "Schedule Limits"
+msgstr "Skemabegrænsninger"
+
+msgid "Schedule Template"
+msgstr "Skemaskabelon"
+
+msgid "Schedule Template Deleted"
+msgstr "Skemaskabelon er slettet"
+
+msgid "Schedule Template Updated"
+msgstr "Skemaskabelon er opdateret"
+
+msgid "Schedule Templates"
+msgstr "Skemaskabeloner"
+
+msgid "Select"
+msgstr "Vælg"
+
+msgid "Select All"
+msgstr "Vælg alt"
+
+msgid "Select Date"
+msgstr "Vælg dato"
+
+msgid "Select Dates"
+msgstr "Vælg datoer"
+
+msgid "Select Days"
+msgstr ""
+
+msgid "Select Employee"
+msgstr ""
+
+msgid "Select End Date"
+msgstr "Vælg slutdato"
+
+msgid "Select Schedule Template"
+msgstr "Vælg planlægningsskabelon"
+
+msgid "Select Shift Time"
+msgstr ""
+
+msgid "Select Start Date"
+msgstr "Vælg startdato"
+
+msgid "Select a user from WordPress role"
+msgstr "Vælg en bruger ud fra WordPress rolle"
+
+msgid "Send"
+msgstr ""
+
+msgid "Send Email From Address"
+msgstr "Send e-mail fra adressen"
+
+msgid "Send Email From Name"
+msgstr "Send e-mail fra navn"
+
+msgid "Send Test Email"
+msgstr ""
+
+msgid "Sep"
+msgstr "Sep"
+
+msgid "Settings"
+msgstr "Indstillinger"
+
+msgid "Settings Updated"
+msgstr "Indstillinger er opdateret"
+
+msgid "Shift"
+msgstr "Vagt"
+
+msgid "Shift Deleted"
+msgstr "Vagt slettet"
+
+msgid "Shift Label In Compact View"
+msgstr ""
+
+msgid "Shift Picked Up"
+msgstr "Vagten er taget"
+
+msgid "Shift Pickup Request"
+msgstr "Forespørgsel om at tage en vagt"
+
+msgid "Shift Pickup Request Cancelled"
+msgstr "Forespørgsel om at tage en vagt er slettet"
+
+msgid "Shift Pickup Request Recorded"
+msgstr "Forespørgsel om at tage en vagt er registreret"
+
+msgid "Shift Pickup Request Reminders"
+msgstr ""
+
+msgid "Shift Published"
+msgstr "Vagt er udgivet"
+
+msgid "Shift Rescheduled"
+msgstr "Vagt er omlagt"
+
+msgid "Shift Status"
+msgstr "Vagt status"
+
+msgid "Shift Time"
+msgstr ""
+
+msgid "Shift Types"
+msgstr "Typer af vagter"
+
+msgid "Shift Unpublished"
+msgstr "Vagt er ikke udgivet"
+
+msgid "Shift Updated"
+msgstr "Vagt opdateret"
+
+msgid "Shifts"
+msgstr "Vagter"
+
+msgid "Shifts Feed"
+msgstr "Feed af vagter"
+
+msgid "Shifts With Conflicts"
+msgstr ""
+
+msgid "Show Employee Username In Schedule"
+msgstr "Vis medarbejders brugernavn i skemaet"
+
+msgid "Show In Schedule"
+msgstr ""
+
+msgid "Show Shift Time Title In Schedule"
+msgstr ""
+
+msgid "Skip Notifications"
+msgstr "Fravælg notifikationer"
+
+msgid "Slim Month Schedule Grouped View"
+msgstr ""
+
+msgid "Sort Order"
+msgstr "Sorteringsrækkefølge"
+
+msgid "Sort Order Updated"
+msgstr "Sorteringsrækkefølge opdateret"
+
+msgid "Space"
+msgstr ""
+
+msgid "Start Time"
+msgstr "Starttidspunkt"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Subject"
+msgstr "Emne"
+
+msgid "Sun"
+msgstr "Søn"
+
+msgid "Template Shift Deleted"
+msgstr "Skabelon for vagtplan er slettet"
+
+msgid "Template Shift Updated"
+msgstr ""
+
+msgid "Template Shifts"
+msgstr "Skabelon for vagtplaner"
+
+msgid "Template Tags"
+msgstr "Skabelon Tags"
+
+msgid "Text"
+msgstr "Tekst"
+
+msgid "Textarea"
+msgstr "Tekstfelt"
+
+msgid "This operation cannot be undone."
+msgstr "Denne handling kan ikke fortrydes."
+
+msgid "This value is already used"
+msgstr "Denne værdi er allerede brugt"
+
+msgid "This will not affect existing shifts."
+msgstr "Dette vil ikke få indflydelse på oprettede vagter"
+
+msgid "Thu"
+msgstr "Tor"
+
+msgid "Time"
+msgstr "Tid"
+
+msgid "Time Format"
+msgstr "Tidsformat"
+
+msgid "Time Increment"
+msgstr "Tidsforøgelse"
+
+msgid "Time Off"
+msgstr "Fritid"
+
+msgid "Timezone"
+msgstr "Tidszone"
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "To Date"
+msgstr "Til dato"
+
+msgid "Toggle All"
+msgstr "Slå alle til"
+
+msgid "Toggle Selected"
+msgstr "Slå vagte til"
+
+msgid "Total"
+msgstr "I alt"
+
+msgid "Total Duration"
+msgstr "Samlet varighed"
+
+msgid "Total For All Employees"
+msgstr "I alt for alle medarbejdere"
+
+msgid "Total Number"
+msgstr "Samlet antal"
+
+msgid "Tue"
+msgstr "Tir"
+
+msgid "Turn Off Notifications"
+msgstr "Slå notifikationer fra"
+
+msgid "Turn On"
+msgstr "Aktiver"
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unassign"
+msgstr "Fjern tildeling"
+
+msgid "Unassign Themselves From Own Shifts"
+msgstr ""
+
+msgid "Unassign myself"
+msgstr ""
+
+msgid "Unavailable Employees"
+msgstr "Utilgængelige medarbejdere"
+
+msgid "Unlink"
+msgstr "Fjern linket"
+
+msgid "Unpublish"
+msgstr "Fjern udgivelse"
+
+msgid "Until"
+msgstr "Indtil"
+
+msgid "Updated"
+msgstr ""
+
+msgid "Upgrade From 3.x"
+msgstr "Opdater fra 3.x"
+
+msgid "Upgraded"
+msgstr "Opdateret"
+
+msgid "User"
+msgstr "Bruger"
+
+msgid "User Deleted"
+msgstr ""
+
+msgid "User Updated"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Users"
+msgstr "Brugere"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Version Update"
+msgstr ""
+
+msgid "Version Updates"
+msgstr ""
+
+msgid "View"
+msgstr "Se"
+
+msgid "View Conflicts"
+msgstr "Vis konflikter"
+
+msgid "View Open Draft Shifts"
+msgstr "Se åbne kladder til vagskife"
+
+msgid "View Open Published Shifts"
+msgstr "Se åbne udgivne vagtskifte"
+
+msgid "View Others Draft Shifts"
+msgstr "Se andres kladder til vagtskifte"
+
+msgid "View Others Published Shifts"
+msgstr "Se andres udgivne vagtskifte"
+
+msgid "View Own Draft Shifts"
+msgstr "Se egne kladder til vagtskifte"
+
+msgid "View Own Published Shifts"
+msgstr "Se egne udgivne vagtskifte"
+
+msgid "Viewer"
+msgstr "Viewer"
+
+msgid "Viewer Added To Calendar"
+msgstr "Viewer tilføjet til kalender"
+
+msgid "Viewer Removed From Calendar"
+msgstr "Viewer fjernet fra kalender"
+
+msgid "Viewers"
+msgstr "Besøgende"
+
+msgid "Visitor"
+msgstr "Besøgende "
+
+msgid "Visitor Can Edit"
+msgstr "Besøgende kan redigere"
+
+msgid "Visitor Can View"
+msgstr "Besøgende kan se"
+
+msgid "Wed"
+msgstr "Ons"
+
+msgid "Week"
+msgstr "Uge"
+
+msgid "Week Starts On"
+msgstr "Uge starter på "
+
+msgid "Weekly"
+msgstr "Ugentlig"
+
+msgid "Weeks"
+msgstr ""
+
+msgid "When a calendar is deleted, all its data and information is permanently removed."
+msgstr ""
+
+msgid "When an employee is deleted, all their data and information is permanently removed."
+msgstr ""
+
+msgid "With Selected"
+msgstr ""
+
+msgid "WordPress User"
+msgstr ""
+
+msgid "WordPress User Already Linked To Employee"
+msgstr "WordPress bruger er allerede linket til medarbejder"
+
+msgid "WordPress User Role"
+msgstr "WordPress brugerrolle"
+
+msgid "Work 1 day, off 3 days"
+msgstr "Arbejde 1 dag, fri 3 dage"
+
+msgid "Work 3 days, off 2 days, work 4 days, off 1 day"
+msgstr "Arbejde 3 dage, fri 2 dage, arbejde 4 dage, fri 1 dag"
+
+msgid "Wrong Email"
+msgstr ""
+
+msgid "Wrong Link"
+msgstr ""
+
+msgid "Wrong Username Or Password"
+msgstr ""
+
+msgid "X Days On / Y Days Off"
+msgstr "X dage på / Y dage fri"
+
+msgid "Year"
+msgstr "År"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You can automatically export your shifts to other 3rd party applications with the iCal feed option."
+msgstr ""
+
+msgid "You cannot create new shifts with conflicts."
+msgstr "Du kan ikke oprette nye vagtskifte med konflikter."
+
+msgid "You have no roles at the moment"
+msgstr ""
+
+msgid "iCal Sync"
+msgstr "iCal Sync"
+
